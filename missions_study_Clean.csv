@@ -1,0 +1,451 @@
+Date,Client,Mission Reference,Prix Client,Prix Driver,Adresse de départ,Adresse d'arrivée,Retard driver,Driver login,mission Status,Distance total,Durée de la mission,Rating Client,Month
+2023-04-17,Company A,EUz6kKq,106.0,45.0,1 rue de l'ile de France 94460 Valenton,"2 Allée des Aulnes, Trappes, France",-187.0,test_3@test.com,FINISHED,86.0,57.0,,2023-04
+2023-04-17,Company B,GHle2KU,30.0,23.0,"120 Avenue Saint-Exupéry, Antony, France","74, route de la Reine 92100 Boulogne",-122.0,test_4@test.com,FINISHED,36.0,80.0,,2023-04
+2023-04-17,Company C,668k6ee,22.5,15.0,"13 Rue du Commerce, Paris, France","93 Avenue Emile Zola, 75015 Paris, France",-93.0,test_1@test.com,FINISHED,2.0,21.0,,2023-04
+2023-04-17,Company C,Z8lxGlD,22.5,20.0,"39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France","22 Rue Thuret, L'Hay-les-Roses, France",-154.0,test_2@test.com,FINISHED,30.0,58.0,4.0,2023-04
+2023-04-17,Company D,IMkgFPA,551.0,477.04,"15 Rue d'Ebersheim, 67600 Sélestat, France","3 Imp. des Vignes, 49360 Toutlemonde, France",-335.0,test_5@test.com,FINISHED,162.4048780487805,573.0,2.0,2023-04
+2023-04-17,Company D,ju68vsi,199.0,140.0,"Rue de Gautray, Saint-Cyr-en-Val, France","Rue du Bois Barbier, 60880 Le Meux, France",-426.0,test_4@test.com,FINISHED,436.0,252.0,,2023-04
+2023-04-17,Company E,3cwHLuH,22.5,20.0,"117 Rue Charles Michels, Saint-Denis, France","80 Rue de Longchamp, 75016 Paris, France",-96.0,test_2@test.com,FINISHED,24.0,62.0,4.0,2023-04
+2023-04-17,Company E,LTxE09P,22.5,0.0,"61 Rue Henri Regnault, Courbevoie, France","116 Avenue Henri Barbusse, 92700 Colombes, France",-128.0,test_1@test.com,FINISHED,8.0,32.0,,2023-04
+2023-04-17,Company E,LYItNMu,22.5,0.0,"116 Avenue Henri Barbusse, 92700 Colombes, France","61 Rue Henri Regnault, Courbevoie, France",100000.0,test_5@test.com,FINISHED,8.0,26.0,2.0,2023-04
+2023-04-17,Company E,NbrOFnn,35.0,0.0,"29 Rue Pierre Lamandé, Houilles, France","10 Av. de Saint-Germain, 78560 Le Port-Marly, France",193.0,test_1@test.com,FINISHED,26.0,46.0,,2023-04
+2023-04-17,Company F,GAc1JRq,44.0,30.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","64 Rue des Vanesses, Villepinte, France",-104.0,test_2@test.com,FINISHED,28.0,17.0,4.0,2023-04
+2023-04-17,Company F,KSCA2Bl,25.0,20.0,"77 Rue Vergniaud, Paris, France","11 Boulevard du Colonel Fabien, 94200 Ivry-sur-Seine, France",-147.0,test_5@test.com,FINISHED,14.0,40.0,2.0,2023-04
+2023-04-17,Company F,PqNM5Ur,25.0,20.0,"11 Boulevard du Colonel Fabien, 94200 Ivry-sur-Seine, France","77 Rue Vergniaud, Paris, France",-154.0,test_5@test.com,FINISHED,14.0,34.0,2.0,2023-04
+2023-04-17,Company F,SMpLYqI,44.0,30.0,"64 Rue des Vanesses, Villepinte, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-137.0,test_2@test.com,FINISHED,28.0,42.0,5.0,2023-04
+2023-04-17,Company F,oIG89je,25.0,20.0,"8 Rue de Rémusat, Paris, France","11 Boulevard du Colonel Fabien, 94200 Ivry-sur-Seine, France",-150.0,test_1@test.com,FINISHED,32.0,49.0,,2023-04
+2023-04-17,Company G,B0C7zzJ,465.0,521.0,"Rue du Bois Barbier, 60880 Le Meux, France","120 Av. François Mitterrand, 13170 Les Pennes-Mirabeau, France",650.0,test_4@test.com,FINISHED,162.4048780487805,123.13603818615752,,2023-04
+2023-04-17,Company G,Lp8xpu6,465.0,378.0,"Rue Santos Dumont, 44860 Saint-Aignan-Grandlieu, France","Rue des Garennes, Reyrieux, France",-200.0,test_2@test.com,FINISHED,162.4048780487805,479.0,5.0,2023-04
+2023-04-17,Company G,SJf6HPK,685.0,390.0,"Rue du Bois Barbier, 60880 Le Meux, France","9 Rue Maurice Trintignant, Le Mans, France",0.0,test_5@test.com,FINISHED,162.4048780487805,123.13603818615752,2.0,2023-04
+2023-04-17,Company G,WGAkGgl,465.0,598.0,"Rue Santos Dumont, 44860 Saint-Aignan-Grandlieu, France","17 Rue Fernand Bessy, 83120 Sainte-Maxime, France",457.0,test_3@test.com,FINISHED,162.4048780487805,123.13603818615752,,2023-04
+2023-04-17,Company H,7qwwH0r,393.0,250.0,"8 Cours Louis Lumière, Vincennes, France","62 Cours Albert Thomas, Lyon, France",-333.0,test_1@test.com,FINISHED,972.0,290.0,,2023-04
+2023-04-17,Company H,Bb1lY4U,175.0,120.0,"23 Rue Delarivière-Lefoullon, Puteaux, France","Avenue des Montoires, 45500 Gien, France",-231.0,test_5@test.com,FINISHED,320.0,134.0,2.0,2023-04
+2023-04-17,Company H,ZPGE0Qp,326.0,250.0,"100 Chemin des Pailles, Lorgues, France","39 Rue Docteur Albéric Pont, Lyon, France",-221.0,test_4@test.com,FINISHED,772.0,14.0,,2023-04
+2023-04-17,Company H,dtOtz9c,175.0,143.42,"65 Avenue Jean Mermoz, Auxerre, France","14 Rue Montalivet, Paris, France",-28.0,test_3@test.com,FINISHED,380.0,141.0,,2023-04
+2023-04-17,Company H,FZeiDTY,175.0,115.0,"14 Rte de Dhuizon, 41250 Neuvy, France","252 Rue de Rosny, Montreuil, France",-211.0,test_2@test.com,FINISHED,362.0,213.0,5.0,2023-04
+2023-04-17,Company I,boOqhy0,352.0,219.0,"20 Rue Louise de Vilmorin, 91630 Avrainville, France","4 Rue des Douelles, Bouaye, France",-131.0,test_2@test.com,FINISHED,810.0,279.0,5.0,2023-04
+2023-04-17,Company I,zJZCvsn,334.0,295.02,"14 Rte de Dhuizon, 41250 Neuvy, France","61 Rue Jean Briaud, Mérignac, France",-109.0,test_1@test.com,FINISHED,872.0,317.0,,2023-04
+2023-04-17,Company I,jZc7Qg3,20.0,15.0,"170 Rue de l'Étang, 69760 Limonest, France","44 Avenue de Lanessan, Champagne-au-Mont-d'Or, France",-247.0,test_3@test.com,FINISHED,6.0,21.0,,2023-04
+2023-04-17,Company J,zaVkptp,20.0,15.0,"44 Avenue de Lanessan, Champagne-au-Mont-d'Or, France","170 Rue de l'Étang, 69760 Limonest, France",-151.0,test_3@test.com,FINISHED,6.0,22.0,,2023-04
+2023-04-17,Company J,Cik6qQQ,429.0,156.0,"7 Chemin de Bretagne, Issy-les-Moulineaux, France","2 Rue de Lalande, Bordeaux, France",-191.0,test_1@test.com,FINISHED,162.4048780487805,520.0,,2023-04
+2023-04-17,Company K,v2Zigne,438.0,335.0,"27 Rue Principale, Bistroff, France","4 Rue Gaston Monmousseau, Échirolles, France",-767.0,test_1@test.com,FINISHED,162.4048780487805,927.0,,2023-04
+2023-04-17,Company K,MtxZ01m,115.77,106.12,"8 Rue Jean Perrin, Luisant, France","1598 Rte de Quarante Sous, 78630 Orgeval, France",-60.0,test_2@test.com,CANCELLED,190.0,127.0,5.0,2023-04
+2023-04-18,Company L - M,Gv7DwJc,84.0,47.0,139 Avenue Felix Faure 69003  Lyon,"7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France",-145.0,test_4@test.com,FINISHED,112.0,74.0,,2023-04
+2023-04-18,Company A,LbD25Ep,175.0,120.0,"Route de Picardie, 60190 Avrigny, France","7 rue eugene bourgoin,  reims, France",23.0,test_4@test.com,FINISHED,234.0,121.0,,2023-04
+2023-04-18,Company A,56SoJea,22.5,22.0,"39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France","24 Rue Jacques Dulud, Neuilly-sur-Seine, France",-215.0,test_3@test.com,FINISHED,68.0,53.0,,2023-04
+2023-04-18,Company C,D3Etpn0,22.5,20.0,"92 Boulevard de Courcelles, Paris, France","93 Avenue Emile Zola, 75015 Paris, France",-57.0,test_1@test.com,FINISHED,10.0,40.0,,2023-04
+2023-04-18,Company C,Dr36fua,33.3,28.0,"74, route de la Reine 92100 Boulogne","120 Avenue Saint-Exupéry, Antony, France",-231.0,test_1@test.com,FINISHED,36.0,50.0,,2023-04
+2023-04-18,Company B,FgIfjtL,30.0,25.0,"3 Boulevard Gallieni, Issy-les-Moulineaux, France","74, route de la Reine 92100 Boulogne",-158.0,test_2@test.com,FINISHED,6.0,21.0,5.0,2023-04
+2023-04-18,Company B,290K7Az,38.0,24.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","3 Avenue Blanche, Villemomble, France",-99.0,test_5@test.com,FINISHED,16.0,44.0,2.0,2023-04
+2023-04-18,Company F,EMpZzzA,44.0,30.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","64 Rue des Vanesses, Villepinte, France",-124.0,test_4@test.com,FINISHED,28.0,40.0,,2023-04
+2023-04-18,Company F,HudL1Xb,38.0,24.0,"3 Avenue Blanche, Villemomble, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-163.0,test_1@test.com,FINISHED,20.0,40.0,,2023-04
+2023-04-18,Company F,NeLQL4v,0.0,30.0,"64 Rue des Vanesses, Villepinte, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-127.0,test_2@test.com,FINISHED,28.0,41.0,5.0,2023-04
+2023-04-18,Company F,GVvKwoM,22.5,20.0,"4 Cours de l'Île Seguin, Boulogne-Billancourt, France","15-17 Rue Barbès, 92120 Montrouge, France",-90.0,test_1@test.com,FINISHED,18.0,58.0,,2023-04
+2023-04-18,Company E,IQuWqjO,22.5,20.0,"43 Rue Servan, Paris, France","15-17 Rue Barbès, 92120 Montrouge, France",-151.0,test_1@test.com,FINISHED,22.0,61.0,,2023-04
+2023-04-18,Company E,gQqiKmh,70.0,48.0,"10 Av. de Saint-Germain, 78560 Le Port-Marly, France","29 Rue Pierre Lamandé, Houilles, France",-88.0,test_3@test.com,CANCELLED,26.0,202.0,,2023-04
+2023-04-18,Company E,UzQf4q2,51.0,45.0,"280 Avenue de Colmar, Strasbourg, France","4 Place Adrien Zeller, Strasbourg, France",-451.0,test_4@test.com,FINISHED,20.0,38.0,,2023-04
+2023-04-18,Company E,jytAJHR,51.0,45.0,"4 Place Adrien Zeller, Strasbourg, France","280 Avenue de Colmar, Strasbourg, France",-205.0,test_4@test.com,FINISHED,20.0,44.0,,2023-04
+2023-04-18,Company E,otzReA8,449.0,355.09,"2 Rue Lisbonne, Agen, France","15 Avenue du Centre, Guyancourt, France",-407.0,test_5@test.com,FINISHED,162.4048780487805,512.0,2.0,2023-04
+2023-04-18,Company G,lB0uD1Z,51.0,100.0,"Rue de la Pierre Percée, Montoir-de-Bretagne, Pays de la Loire, 44550, France","1 Rue Thomas Edison, Saint-Nazaire, Pays de la Loire, 44600, France",-419.0,test_2@test.com,FINISHED,28.0,39.0,5.0,2023-04
+2023-04-18,Company G,tDQIIbT,199.0,195.82,"Rue de Gautray, Saint-Cyr-en-Val, France","Rue du Bois Barbier, 60880 Le Meux, France",-437.0,test_1@test.com,FINISHED,436.0,248.0,,2023-04
+2023-04-18,Company G,B06IoMI,80.0,40.0,"135 Rue de Paris, Saint-Ouen-l'Aumône, France","26 Allée des Frères Voisin, Paris, France",-150.0,test_2@test.com,FINISHED,86.0,69.0,5.0,2023-04
+2023-04-18,Company G,mCh4WYb,334.0,168.0,"4 Rue du Château de l'Éraudière, Nantes, France","20 Avenue André Prothin, Courbevoie, France",-410.0,test_3@test.com,FINISHED,896.0,123.13603818615752,,2023-04
+2023-04-18,Company H,fqg6cme,64.77,88.32,"11 Rue des Sablons, 75116 Paris, France","61 Rue Henri Regnault, Courbevoie, France",1.0,test_5@test.com,FINISHED,12.0,42.0,2.0,2023-04
+2023-04-19,Company H,1A6glcU,281.0,165.0,"SOMEDAT STVA, QUARTIER DU PARC DE L'ARTILLERIE, MIRAMAS, 13140, FRA","1094 Route Jean Natale, Carros, France",-217.0,test_2@test.com,FINISHED,544.0,224.0,5.0,2023-04
+2023-04-19,Company H,5N8Jk93,106.0,22.0,1 rue de l'ile de France 94460 Valenton,17 rue jouffroy d'abbans 75017  paris,-280.0,test_1@test.com,FINISHED,42.0,99.0,,2023-04
+2023-04-19,Company H,EGReGAH,132.0,60.0,"7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France",3 rue des vergers 69760  limonest,-179.0,test_5@test.com,FINISHED,52.0,72.0,2.0,2023-04
+2023-04-19,Company H,LXnWSmo,344.0,228.0,1 rue de l'ile de France 94460 Valenton,"20 rue du bourg nouveau,  rennes, France",30.0,test_3@test.com,FINISHED,732.0,227.0,,2023-04
+2023-04-19,Company I,35BVUPp,28.0,20.0,"3 Place de l'Europe, Vélizy-Villacoublay, France","105, Bd Gabriel Péri 92240 Malakoff",-138.0,test_2@test.com,FINISHED,30.0,59.0,,2023-04
+2023-04-19,Company I,Eo8z29g,30.0,23.0,"25 Avenue du Docteur Lannelongue, Montrouge, France","105, Bd Gabriel Péri 92240 Malakoff",-137.0,test_3@test.com,FINISHED,6.0,32.0,,2023-04
+2023-04-19,Company I,Q7EvquM,30.0,23.0,"74, route de la Reine 92100 Boulogne","174 Rue des Vignes, 92000 Nanterre, France",-145.0,test_3@test.com,FINISHED,20.0,46.0,,2023-04
+2023-04-19,Company A,DDzWIIs,22.5,21.0,"142 Boulevard de la Villette, Paris, France","39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France",-169.0,test_5@test.com,FINISHED,56.0,73.0,2.0,2023-04
+2023-04-19,Company A,JFJs9WP,0.0,0.0,"93 Avenue Emile Zola, 75015 Paris, France","2 Rue Corot, Paris, France",-141.0,test_4@test.com,CANCELLED,4.0,123.0,,2023-04
+2023-04-19,Company A,58UQduJ,22.5,20.0,"6 Rue Fructidor, Saint-Ouen-sur-Seine, France","11 Rue des Sablons, 75116 Paris, France",2.0,test_3@test.com,FINISHED,14.0,34.0,,2023-04
+2023-04-19,Company B,L74MYz1,22.5,16.0,"11 Rue des Sablons, 75116 Paris, France","6 Rue Fructidor, Saint-Ouen-sur-Seine, France",-86.0,test_2@test.com,FINISHED,16.0,69.0,,2023-04
+2023-04-19,Company B,P5CGvEK,22.5,20.0,"6 Rue Fructidor, Saint-Ouen-sur-Seine, France","11 Rue des Sablons, 75116 Paris, France",-61.0,test_2@test.com,FINISHED,14.0,39.0,,2023-04
+2023-04-19,Company C,ZN4BMZA,22.5,20.0,"11 Rue des Sablons, 75116 Paris, France","6 Rue Fructidor, Saint-Ouen-sur-Seine, France",100000.0,test_4@test.com,FINISHED,16.0,52.0,,2023-04
+2023-04-19,Company C,dVymG8b,22.5,20.0,"11 Rue des Sablons, 75116 Paris, France","61 Rue Henri Regnault, Courbevoie, France",-172.0,test_3@test.com,FINISHED,12.0,54.0,,2023-04
+2023-04-19,Company E,5jsc51j,38.0,27.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","53 Avenue Jean Jaurès, Le Bourget, France",-133.0,test_5@test.com,FINISHED,18.0,40.0,2.0,2023-04
+2023-04-19,Company E,8lnuShS,25.0,15.0,"11 Boulevard du Colonel Fabien, 94200 Ivry-sur-Seine, France","8 Rue de Rémusat, Paris, France",-477.0,test_1@test.com,FINISHED,30.0,42.0,,2023-04
+2023-04-19,Company E,PvQAsKx,38.0,27.0,"53 Avenue Jean Jaurès, Le Bourget, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-117.0,test_2@test.com,FINISHED,12.0,32.0,,2023-04
+2023-04-19,Company E,T4vhBkr,44.0,15.0,"26 Avenue Albert Einstein, Le Blanc-Mesnil, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-86.0,test_5@test.com,FINISHED,20.0,35.0,2.0,2023-04
+2023-04-19,Company E,phNslsw,44.0,30.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","26 Avenue Albert Einstein, Le Blanc-Mesnil, France",-147.0,test_1@test.com,FINISHED,20.0,40.0,,2023-04
+2023-04-19,Company F,Ha3F2uI,449.0,350.0,"Chemin des Crans, Bédoin, Provence-Alpes-Côte d'Azur, 84410, France","112 Route du Barp, Mios, Nouvelle-Aquitaine, 33380, France",-794.0,test_1@test.com,FINISHED,162.4048780487805,380.0,,2023-04
+2023-04-19,Company F,6bp4S7a,60.0,30.0,"49 Rue Louis Blanc, Courbevoie, France","26 Allée des Frères Voisin, Paris, France",-64.0,test_4@test.com,FINISHED,24.0,46.0,,2023-04
+2023-04-19,Company F,U9GEgaK,518.38,366.38,"51 Rue Roger Salengro, Vénissieux, France","26 Allée des Frères Voisin, Paris, France",-233.0,test_4@test.com,FINISHED,992.0,460.0,,2023-04
+2023-04-19,Company F,L0QJkaa,81.0,50.0,"Zac De La Vatine, 76130 Mont-Saint-Aignan, France","363 Rue Denis Papin, Barentin, France",-149.0,test_3@test.com,FINISHED,34.0,45.0,,2023-04
+2023-04-19,Company F,ZJxQBxx,334.0,235.07,"4 Rue du Château de l'Éraudière, Nantes, France","20 Avenue André Prothin, Courbevoie, France",-32.0,test_1@test.com,FINISHED,896.0,323.0,,2023-04
+2023-04-19,Company G,cbGdtuX,393.0,320.0,"97 Allée Alexandre Borodine, Saint-Priest, France","9A Rue du Parc, Oberhausbergen, France",-231.0,test_2@test.com,FINISHED,940.0,442.0,,2023-04
+2023-04-19,Company G,KM3VdbN,75.0,55.0,"860 Route du Chaoure, Vignaux, France","5 Rue Seveso, 31150 Fenouillet, France",-157.0,test_4@test.com,FINISHED,74.0,95.0,,2023-04
+2023-04-19,Company G,ldw6Ef3,145.0,95.0,"6 Rue Jean de La Bruyère, Reims, France","1598 Rte de Quarante Sous, 78630 Orgeval, France",-71.0,test_4@test.com,FINISHED,390.0,207.0,,2023-04
+2023-04-19,Company G,ITpP4mw,45.65,20.0,"9 Av. Claude Vellefaux, 75010 Paris, France","126 Avenue Vauban, Livry-Gargan, France",100000.0,test_1@test.com,FINISHED,36.0,57.0,,2023-04
+2023-04-19,Company H,ey8wBrR,586.0,390.0,"5 Rte des Loges, 91290 La Norville, France","Traverse Decormis, Marseille, France",0.0,test_2@test.com,FINISHED,162.4048780487805,123.13603818615752,,2023-04
+2023-04-19,Company H,tOXoQOr,352.0,318.55,"1193 Avenue de l'Europe, Villefranche-sur-Saône, France","37 Avenue Joffre, Gagny, France",-293.0,test_3@test.com,FINISHED,900.0,433.0,,2023-04
+2023-04-19,Company H,7stNfin,113.0,73.0,"Av. Aristide Briand, 76000 Rouen, France","6 Route de la Butte, Crouttes, France",-158.0,test_5@test.com,FINISHED,242.0,143.0,,2023-04
+2023-04-19,Company H,hb1QW5L,465.0,380.0,"1 Av. Louis Mouillard, 69500 Bron, France","20 Rue de Pont-Sainte-Maxence, Cinqueux, France",943.0,test_3@test.com,FINISHED,162.4048780487805,16.0,,2023-04
+2023-04-19,Company H,Z1hzN9M,105.0,73.0,99 Boulevard Lefebvre 75015 Paris,"27 Avenue de Bir Hakeim, Noisy-le-Sec, France",-288.0,test_4@test.com,FINISHED,82.0,122.0,,2023-04
+2023-04-20,Company J,9MNgCJm,22.5,20.0,"6 Avenue Réaumur, Clamart, France","39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France",-8.0,test_3@test.com,FINISHED,14.0,22.0,,2023-04
+2023-04-20,Company J,NUgo9pk,58.95,33.0,"39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France","33 Rue des Vanesses, Villepinte, France",-96.0,test_5@test.com,FINISHED,86.0,116.0,,2023-04
+2023-04-20,Company J,E4AnarP,106.0,21.0,1 rue de l'ile de France 94460 Valenton,19 rue de vienne 75008  paris,-39.0,test_2@test.com,FINISHED,40.0,77.0,,2023-04
+2023-04-20,Company J,EMM2Kul,344.0,243.86,"7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France",280 avenue de verdun 83600  frejus,379.0,test_3@test.com,FINISHED,746.0,331.0,,2023-04
+2023-04-20,Company K,Flrsdt1,99.0,28.0,1 rue de l'ile de France 94460 Valenton,2 rue de boullay les troux 91470  les molieres,-251.0,test_1@test.com,FINISHED,44.0,108.0,,2023-04
+2023-04-20,Company K,H1TiQ6e,90.0,60.0,"131 Rue du 1er Mai, Nanterre, France","26 Allée des Frères Voisin, Paris, France",-43.0,test_4@test.com,FINISHED,34.0,53.0,,2023-04
+2023-04-20,Company K,arW9ryp,60.0,15.0,"9 Chemin de Bretagne, Issy-les-Moulineaux, France","26 Allée des Frères Voisin, Paris, France",-92.0,test_2@test.com,FINISHED,4.0,26.0,,2023-04
+2023-04-20,Company K,eTWX1Kq,60.0,30.0,"9 Chemin de Bretagne, Issy-les-Moulineaux, France","26 Allée des Frères Voisin, Paris, France",-104.0,test_5@test.com,FINISHED,4.0,30.0,0.0,2023-04
+2023-04-20,Company K,FtyBw4f,31.95,24.0,"74, route de la Reine 92100 Boulogne","174 Rue des Vignes, Nanterre, France",-212.0,test_3@test.com,FINISHED,18.0,48.0,,2023-04
+2023-04-20,Company C,bZ6wkqz,30.0,23.0,"174 Rue des Vignes, Nanterre, France","74, route de la Reine 92100 Boulogne",-139.0,test_5@test.com,FINISHED,18.0,55.0,0.0,2023-04
+2023-04-20,Company C,FGzHIX3,38.0,25.0,"12 Allée Notre-Dame-des-Anges, Le Raincy, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-148.0,test_5@test.com,FINISHED,16.0,38.0,0.0,2023-04
+2023-04-20,Company L - M,MQYsVDp,38.0,26.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","12 Allée Notre-Dame-des-Anges, Le Raincy, France",-96.0,test_5@test.com,FINISHED,16.0,45.0,0.0,2023-04
+2023-04-20,Company L - M,3s3IZ9M,22.5,20.0,"80 Quai Voltaire, Bezons, France","116 Avenue Henri Barbusse, 92700 Colombes, France",-96.0,test_4@test.com,FINISHED,12.0,56.0,,2023-04
+2023-04-20,Company L - M,EOLwWWJ,35.0,24.0,"10 Av. de Saint-Germain, 78560 Le Port-Marly, France","20 Rue Danton, Rueil-Malmaison, France",-99.0,test_3@test.com,FINISHED,18.0,41.0,,2023-04
+2023-04-20,Company N - O,DcJtdwQ,35.0,30.0,"4 Rue Albert de Dion, 44700 Orvault, France","3 Avenue Augustin-Louis Cauchy, Nantes, France",-194.0,test_4@test.com,FINISHED,22.0,24.0,,2023-04
+2023-04-20,Company N - O,EQZsChK,35.0,30.0,"3 Avenue Augustin-Louis Cauchy, Nantes, France","4 Rue Albert de Dion, 44700 Orvault, France",-145.0,test_3@test.com,FINISHED,20.0,24.0,,2023-04
+2023-04-20,Company P,G3yaWlk,35.0,30.0,"3 Avenue Augustin-Louis Cauchy, Nantes, France","4 Rue Albert de Dion, 44700 Orvault, France",-124.0,test_1@test.com,FINISHED,20.0,24.0,,2023-04
+2023-04-20,Company A,DdYmjZO,233.0,150.0,"9 Rue Gustave Eiffel, Castres, Occitanie, 81100, France","batiment e19 / 370 Avenue Alphonse Daudet, Salon-de-Provence, Provence-Alpes-Côte d'Azur, 13300, France",-517.0,test_2@test.com,FINISHED,594.0,243.0,,2023-04
+2023-04-20,Company A,GI83nnJ,551.0,489.51,"12 Rue Sainte-Barbe, Maxéville, Grand Est, 54320, France","2 Boulevard Euromediterranée Quai d'Arenc, Marseille, Provence-Alpes-Côte d'Azur, 13002, France",-265.0,test_4@test.com,FINISHED,162.4048780487805,508.0,,2023-04
+2023-04-20,Company B,jMSo5ci,35.0,27.0,"8 Rue des Genévriers, 59118 Wambrechies, France","449 Av. de Dunkerque, 59160 Lille, France",-140.0,test_3@test.com,FINISHED,16.0,35.0,,2023-04
+2023-04-20,Company D,gOjReoo,229.0,194.99,"3 Impasse Ampère, Pusignan, France","34 Rue Henri Matisse, Lempdes, France",-100.0,test_3@test.com,FINISHED,422.0,205.0,,2023-04
+2023-04-20,Company D,627L6A5,380.0,166.0,"6 Rue des Peupliers, 92000 Nanterre, France","8 Rue Jules Ferry, Saint-Symphorien-d'Ozon, France",-244.0,test_5@test.com,FINISHED,162.4048780487805,297.0,0.0,2023-04
+2023-04-20,Company F,qTREUTY,125.0,97.0,"5 Rue du Poirier Vert, Marigny-en-Orxois, France","1598 Rte de Quarante Sous, 78630 Orgeval, France",-229.0,test_3@test.com,FINISHED,250.0,127.0,,2023-04
+2023-04-20,Company F,5OATHU5,465.0,415.57,"Rue du Bois Barbier, 60880 Le Meux, France","431 Rue Aristide Bergès, Rives, France",-302.0,test_4@test.com,FINISHED,162.4048780487805,18.0,,2023-04
+2023-04-21,Company F,061Lf3i,99.0,35.0,1 rue de l'ile de France 94460 Valenton,"15 rue jean jaures ,  fontenay aux roses , France",1.0,test_4@test.com,FINISHED,46.0,55.0,,2023-04
+2023-04-21,Company F,1EaLdVG,84.0,100.0,"16 residence les glaieuls,  billy sur aisne, France","Route de Picardie, 60190 Avrigny, France",0.0,test_5@test.com,FINISHED,132.0,123.13603818615752,0.0,2023-04
+2023-04-21,Company E,BmgEpVt,281.0,290.0,"1 Avenue de l'Europe, 31620 Castelnau-d'Estrétefonds, France",2 rue la cafourche 17800  bougneau,0.0,test_2@test.com,FINISHED,520.0,123.13603818615752,,2023-04
+2023-04-21,Company E,ExWpgIa,127.0,81.0,"37 rue antoine de st exupéry,  mably, France","7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France",0.0,test_5@test.com,FINISHED,264.0,123.13603818615752,,2023-04
+2023-04-21,Company E,Fyebd2F,51.0,46.0,"1260 rue de la république,  jaux, France","Route de Picardie, 60190 Avrigny, France",-51.0,test_4@test.com,FINISHED,34.0,110.0,,2023-04
+2023-04-21,Company E,5EsIzIe,55.0,40.0,"1 Rue du Parc des Vergers, Tigery, France","39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France",-84.0,test_3@test.com,FINISHED,84.0,54.0,,2023-04
+2023-04-21,Company E,ITRnylk,30.0,22.0,"74, route de la Reine 92100 Boulogne","2 Rue Adolphe Yvon, 75016 Paris, France",-107.0,test_1@test.com,FINISHED,10.0,33.0,,2023-04
+2023-04-21,Company G,OOpVQF8,30.0,21.0,"29 Rue Frémicourt, 75015 Paris, France","19 Rue de Dantzig, Paris, France",-163.0,test_3@test.com,FINISHED,6.0,17.0,,2023-04
+2023-04-21,Company G,VnG5iQO,30.0,21.0,"19 Rue de Dantzig, Paris, France","29 Rue Frémicourt, 75015 Paris, France",-99.0,test_1@test.com,FINISHED,6.0,33.0,,2023-04
+2023-04-21,Company H,282d32u,22.5,20.0,"42 Avenue Aristide Briand, Bagneux, France","15-17 Rue Barbès, 92120 Montrouge, France",-93.0,test_2@test.com,FINISHED,8.0,67.0,,2023-04
+2023-04-21,Company H,2zkVAgt,35.0,25.0,"10 Av. de Saint-Germain, 78560 Le Port-Marly, France","10 Rue d'Estienne d'Orves, Rueil-Malmaison, France",-108.0,test_5@test.com,FINISHED,18.0,38.0,,2023-04
+2023-04-21,Company J,GcciaRH,22.5,20.0,"15-17 Rue Barbès, 92120 Montrouge, France","43 Rue Servan, Paris, France",-208.0,test_3@test.com,FINISHED,26.0,41.0,,2023-04
+2023-04-21,Company C,U9FCUUV,22.5,15.0,"49 Boulevard Murat, Paris, France","116 Avenue Henri Barbusse, 92700 Colombes, France",-157.0,test_2@test.com,FINISHED,22.0,45.0,,2023-04
+2023-04-21,Company C,geXAV08,29.7,20.0,"1 Avenue Réaumur, Le Plessis-Robinson, France","80 Rue de Longchamp, 75016 Paris, France",195.0,test_1@test.com,FINISHED,34.0,78.0,,2023-04
+2023-04-21,Company B,uPhQ5T6,0.0,22.0,"4 Avenue Gabriel Péri, 78360 Montesson, France","18 Quai Charles de Gaulle, Carrières-sur-Seine, France",-68.0,test_1@test.com,FINISHED,16.0,41.0,,2023-04
+2023-04-21,Company B,jXMgo65,687.0,465.0,"Mougins, 06250, France","151 Boulevard National, Rueil-Malmaison, France",0.0,test_5@test.com,FINISHED,162.4048780487805,123.13603818615752,,2023-04
+2023-04-21,Company B,iRDCfvV,485.0,330.01,"204 Rond-Point du Pont de Sèvres, Boulogne-Billancourt, France","4 Rue Alain Fournier, Toulouse, France",-365.0,test_1@test.com,FINISHED,162.4048780487805,425.0,,2023-04
+2023-04-21,Company B,2IE2vUC,305.0,290.0,"29 Avenue du Breuchin, Raddon-et-Chapendu, France","1598 Rte de Quarante Sous, 78630 Orgeval, France",0.0,test_2@test.com,FINISHED,948.0,123.13603818615752,,2023-04
+2023-04-21,Company B,GWEgeK9,465.0,275.25,"Rue Santos Dumont, 44860 Saint-Aignan-Grandlieu, France","33 Rue du Pré la Reine, Clermont-Ferrand, France",-43.0,test_3@test.com,FINISHED,948.0,978.0,,2023-04
+2023-04-21,Company I,wWKybyF,465.0,501.73,"Rue du Bois Barbier, 60880 Le Meux, France","3a Avenue du Mont Valier, 31410 Saint-Hilaire, France",823.0,test_3@test.com,FINISHED,162.4048780487805,123.13603818615752,,2023-04
+2023-04-21,Company I,9kCkPwI,175.0,165.15,"14 Rte de Dhuizon, 41250 Neuvy, France","6 Rue Hector Berlioz, Aubergenville, France",-59.0,test_5@test.com,FINISHED,400.0,285.0,,2023-04
+2023-04-21,Company K,ERjQs82,180.0,175.0,"Av. Aristide Briand, 76000 Rouen, France","8 Rue Saint-Maixent, Brissy-Hamégicourt, France",-306.0,test_4@test.com,FINISHED,448.0,200.0,,2023-04
+2023-04-21,Company K,J2VOozf,179.87,90.0,"9 Av. Claude Vellefaux, 75010 Paris, France","183 Quai Voltaire, Dammarie-les-Lys, France",-12.0,test_2@test.com,FINISHED,252.0,276.0,,2023-04
+2023-04-21,Company L - M,GXYCekP,35.0,10.0,"4 Rue Albert de Dion, 44700 Orvault, France","3 Avenue Augustin-Louis Cauchy, Nantes, France",-162.0,test_1@test.com,FINISHED,22.0,22.0,,2023-04
+2023-04-21,Company L - M,8n4GAut,186.0,140.0,"26 Rue Alexandre Dumas, 02100 Saint-Quentin, France","11 Rue de Unna, Palaiseau, France",42.0,test_5@test.com,FINISHED,366.0,156.0,,2023-04
+2023-04-21,Company L - M,dRb6Fb1,105.0,70.0,99 Boulevard Lefebvre 75015 Paris,"40 Rue du Jura, Rungis, France",100000.0,test_4@test.com,FINISHED,56.0,119.0,,2023-04
+2023-04-24,Company L - M,3ApO7UY,58.0,40.0,"450 av. galillee,  aix en provence, France","SOMEDAT STVA, QUARTIER DU PARC DE L'ARTILLERIE, MIRAMAS, 13140, FRA",-62.0,test_5@test.com,FINISHED,88.0,221.0,,2023-04
+2023-04-24,Company N - O,4Tk96Pw,84.0,60.0,"6 chemin du pigonnet,  venelles, France","SOMEDAT STVA, QUARTIER DU PARC DE L'ARTILLERIE, MIRAMAS, 13140, FRA",-130.0,test_5@test.com,FINISHED,104.0,84.0,,2023-04
+2023-04-24,Company N - O,Agh6oJy,51.0,30.0,"74 rue balard,  paris, France",1 rue de l'ile de France 94460 Valenton,-154.0,test_3@test.com,FINISHED,48.0,54.0,,2023-04
+2023-04-24,Company N - O,7Ixkay5,617.0,410.61,"66 Route de Brest, Quimper, France","15 Route de Lyon, Saint-Priest, France",500.0,test_2@test.com,FINISHED,162.4048780487805,123.13603818615752,5.0,2023-04
+2023-04-24,Company N - O,7U6n43z,334.0,220.0,"36 Rue Gustave Eiffel, 77220 Gretz-Armainvilliers, France","1 Rue du Petit Bocage, Essarts en Bocage, France",-291.0,test_4@test.com,FINISHED,882.0,387.0,,2023-04
+2023-04-24,Company N - O,BP0VIay,611.0,594.1,"95 Avenue des Logissons, 13770 Venelles, France","10 Rue Marguerite Long, Paris, France",555.0,test_4@test.com,FINISHED,162.4048780487805,123.13603818615752,,2023-04
+2023-04-24,Company P,KOxWj7j,22.5,20.0,"2 Allée Louis David, Rueil-Malmaison, France","39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France",-131.0,test_2@test.com,FINISHED,38.0,62.0,5.0,2023-04
+2023-04-24,Company Q - R,SZ6j7bE,22.5,20.0,"39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France","25 Rue Ernest Renan, Meudon, France",-142.0,test_2@test.com,FINISHED,14.0,38.0,5.0,2023-04
+2023-04-24,Company S,WVIwNJp,22.5,15.0,"179 Rue de l'Université, Paris, France","93 Avenue Emile Zola, 75015 Paris, France",-149.0,test_3@test.com,FINISHED,6.0,24.0,,2023-04
+2023-04-24,Company A,I4s5yR8,28.0,17.0,"105, Bd Gabriel Péri 92240 Malakoff","11 Place de l'Europe, Vélizy-Villacoublay, France",-139.0,test_1@test.com,FINISHED,32.0,16.0,,2023-04
+2023-04-24,Company A,eMvib2q,30.0,15.0,"9 Rue Georges Berger, Paris, France","29 Rue Frémicourt, 75015 Paris, France",-124.0,test_3@test.com,FINISHED,10.0,41.0,,2023-04
+2023-04-24,Company D,N47WzVu,255.6,175.0,"159 Av. de la Marne, 59700 Marcq-en-Barœul, France","26 Allée des Frères Voisin, Paris, France",-235.0,test_4@test.com,FINISHED,568.0,230.0,,2023-04
+2023-04-24,Company D,aRZ6FEg,120.0,60.0,"26 Allée des Frères Voisin, Paris, France","27 Av. Carnot, 91300 Massy, France",-123.0,test_5@test.com,FINISHED,42.0,59.0,,2023-04
+2023-04-24,Company D,MdMC2IY,199.0,250.0,"Carrefour de l'Artois, 62490 Fresnes-lès-Montauban, France","24 Rue des Bouvreuils, Charleville-Mézières, France",-95.0,test_2@test.com,FINISHED,472.0,190.0,5.0,2023-04
+2023-04-24,Company D,XL1i1vP,103.0,72.0,"1ère Rue du Port Fluvial, 59118 Wambrechies, France","Av. Marc Lefrancq, 59111 Lieu-Saint-Amand, France",198.0,test_5@test.com,FINISHED,152.0,213.0,,2023-04
+2023-04-24,Company E,q04ghgp,175.0,140.0,"Clos du Grand Chemin, 79210 Prin-Deyrançon, France","Rue Santos Dumont, 44860 Saint-Aignan-Grandlieu, France",-59.0,test_4@test.com,FINISHED,326.0,322.0,,2023-04
+2023-04-24,Company E,izObjbd,465.0,489.34,"Rue Santos Dumont, 44860 Saint-Aignan-Grandlieu, France","15 Rue des Charpentiers, Metz, France",-194.0,test_1@test.com,FINISHED,162.4048780487805,588.0,,2023-04
+2023-04-24,Company G,qMQiZxt,465.0,486.37,"Rue Santos Dumont, 44860 Saint-Aignan-Grandlieu, France","15 Rue des Charpentiers, Metz, France",-139.0,test_5@test.com,FINISHED,162.4048780487805,495.0,,2023-04
+2023-04-24,Company G,IzEO92C,20.0,15.0,"63 Route de Paris, Tassin-la-Demi-Lune, France","6 Rue Joannes Carret, 69009 Lyon, France",-118.0,test_5@test.com,FINISHED,12.0,58.0,2.0,2023-04
+2023-04-24,Company G,jyXgmsm,20.0,15.0,"6 Rue Joannes Carret, 69009 Lyon, France","63 Route de Paris, Tassin-la-Demi-Lune, France",-192.0,test_3@test.com,FINISHED,12.0,39.0,,2023-04
+2023-04-24,Company G,T3lY2ao,429.0,410.45,"505 Route de Chabeuil, Valence, France","12 Rue Jean Jaurès, Puteaux, France",-433.0,test_4@test.com,FINISHED,162.4048780487805,384.0,,2023-04
+2023-04-24,Company B,NG74C5Z,235.0,155.0,"21 Rue Pierre de Coubertin, Rilhac-Rancon, France","1598 Rte de Quarante Sous, 78630 Orgeval, France",-194.0,test_1@test.com,FINISHED,784.0,316.0,,2023-04
+2023-04-24,Company B,lMVn0LB,265.0,220.0,"801 Chemin de Fayolle, Vareilles, France","1598 Rte de Quarante Sous, 78630 Orgeval, France",985.0,test_1@test.com,FINISHED,852.0,123.13603818615752,,2023-04
+2023-04-24,Company B,BVBp329,22.5,15.0,"112 Av. du Général Leclerc, Paris, France","15-17 Rue Barbès, 92120 Montrouge, France",-137.0,test_1@test.com,FINISHED,4.0,27.0,,2023-04
+2023-04-24,Company L - M,dbxGOmI,39.0,27.0,"2A Rue Schwilgué, Strasbourg, France","4 Rue Emile Mathis, 67800 Hœnheim, France",-129.0,test_4@test.com,FINISHED,14.0,56.0,,2023-04
+2023-04-24,Company L - M,smTWAbE,478.0,496.01,"1 Rue des Acacias, Bruges, France","Rn201 ZI des Landiers Nord, . 73000, Chambéry France",280.0,test_2@test.com,FINISHED,162.4048780487805,123.13603818615752,5.0,2023-04
+2023-04-24,Company L - M,cTSLTHq,105.0,75.0,99 Boulevard Lefebvre 75015 Paris,"8 Rue Charles Péguy, Villeroy, France",-124.0,test_1@test.com,FINISHED,216.0,159.0,,2023-04
+2023-04-25,Company L - M,E2WKDl2,45.5,41.0,"39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France","99 Avenue d'Italie, Paris, France",-147.0,test_3@test.com,FINISHED,50.0,69.0,,2023-04
+2023-04-25,Company L - M,1x6lBUq,99.0,45.0,1 rue de l'ile de France 94460 Valenton,22 rue brunel 75017  paris,40.0,test_1@test.com,FINISHED,40.0,66.0,,2023-04
+2023-04-25,Company F,34q3ExP,106.0,45.0,1 rue de l'ile de France 94460 Valenton,"18 rue de lafayette,  versailles, France",-123.0,test_3@test.com,FINISHED,68.0,79.0,,2023-04
+2023-04-25,Company F,Cu6wrnF,51.0,28.0,"ratp developpement 131 avenue de malakoff,  paris, France",1 rue de l'ile de France 94460 Valenton,-172.0,test_5@test.com,FINISHED,32.0,63.0,2.0,2023-04
+2023-04-25,Company C,FriqEcZ,106.0,34.0,1 rue de l'ile de France 94460 Valenton,"134-142 rue danton,  levallois, France",-96.0,test_3@test.com,FINISHED,66.0,57.0,,2023-04
+2023-04-25,Company C,FzdWdPD,58.0,50.01,"3 impasse du haut de la velette,  rillieux-la-pape, France","7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France",-83.0,test_1@test.com,FINISHED,98.0,96.0,,2023-04
+2023-04-25,Company H,4cAStgX,35.0,26.0,"1 Avenue Eugène Freyssinet, Guyancourt, France","74, route de la Reine 92100 Boulogne",-89.0,test_3@test.com,FINISHED,48.0,13.0,,2023-04
+2023-04-25,Company H,FzkeXgC,30.0,22.0,"13 Rue de la Verrerie, Meudon, France","74, route de la Reine 92100 Boulogne",-198.0,test_4@test.com,FINISHED,8.0,27.0,,2023-04
+2023-04-25,Company I,VlPTuGP,30.0,21.0,"11 Rue Philibert Delorme, Paris, France","29 Rue Frémicourt, 75015 Paris, France",-131.0,test_1@test.com,FINISHED,12.0,63.0,,2023-04
+2023-04-25,Company J,7hSZxoD,22.5,20.0,"4 Cours de l'Île Seguin, Boulogne-Billancourt, France","11 Rue des Sablons, 75116 Paris, France",-29.0,test_2@test.com,FINISHED,16.0,15.0,5.0,2023-04
+2023-04-25,Company J,gcnZkuo,22.5,20.0,"15-17 Rue Barbès, 92120 Montrouge, France","112 Av. du Général Leclerc, Paris, France",-123.0,test_3@test.com,FINISHED,4.0,19.0,,2023-04
+2023-04-25,Company K,30FypaF,120.0,60.0,"26 Allée des Frères Voisin, Paris, France","Route des Nourrices, Thiverval-Grignon, France",-189.0,test_2@test.com,FINISHED,72.0,129.0,5.0,2023-04
+2023-04-25,Company A,lSvvQaJ,38.0,25.0,"14 Avenue Charles, Gagny, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-180.0,test_3@test.com,FINISHED,20.0,39.0,,2023-04
+2023-04-25,Company A,IpObpeP,257.0,121.0,"Avenue du 12 Juillet 1998, Aix-en-Provence, France","6 Avenue de l'Industrie, 69960 Corbas, France",-274.0,test_4@test.com,FINISHED,626.0,257.0,,2023-04
+2023-04-25,Company D,zq7PA6U,604.0,515.64,Rue Maryse Bastié 91700 Fleury-Mérogis,"7 Avenue Saint-Jérôme, Aix-en-Provence, France",-69.0,test_5@test.com,FINISHED,162.4048780487805,494.0,2.0,2023-04
+2023-04-25,Company D,W4Ku80q,125.0,90.0,"20 Rue du Général Ferrié, Annecy, France","7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France",-127.0,test_5@test.com,FINISHED,204.0,143.0,2.0,2023-04
+2023-04-25,Company D,aNyy5UA,48.0,22.0,"9 Av. Claude Vellefaux, 75010 Paris, France","98 Rue Jean Jaurès, Levallois-Perret, France",-179.0,test_2@test.com,FINISHED,20.0,53.0,5.0,2023-04
+2023-04-25,Company D,0Vnxuib,465.0,488.5,"Rue du Bois Barbier, 60880 Le Meux, France","4 Côte de l'Empereur, 33150 Cenon, France",-453.0,test_1@test.com,FINISHED,162.4048780487805,42.0,,2023-04
+2023-04-26,Company E,04D6HbN,30.0,15.0,"29 Rue Frémicourt, 75015 Paris, France","11 Rue Philibert Delorme, Paris, France",-176.0,test_3@test.com,FINISHED,14.0,43.0,,2023-04
+2023-04-26,Company E,19haHqT,35.0,25.0,"74, route de la Reine 92100 Boulogne","1 Avenue Eugène Freyssinet, Guyancourt, France",-138.0,test_5@test.com,FINISHED,42.0,71.0,2.0,2023-04
+2023-04-26,Company G,7rCRhg0,30.0,21.0,"89 Avenue Jean Jaurès, 92120 Montrouge, France","74, route de la Reine 92100 Boulogne",-145.0,test_1@test.com,FINISHED,16.0,33.0,,2023-04
+2023-04-26,Company G,F0a0hMX,27.0,23.0,"39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France","1 Rue du Thimerais, Maurepas, France",-213.0,test_4@test.com,FINISHED,44.0,40.0,,2023-04
+2023-04-26,Company G,bznEyc9,99.0,20.0,1 rue de l'ile de France 94460 Valenton,8 place des vins de france 75012  paris ,71.0,test_1@test.com,FINISHED,32.0,48.0,,2023-04
+2023-04-26,Company G,dic12cY,127.0,108.0,"6 rue aux oeufs,  branches, France",1 rue de l'ile de France 94460 Valenton,-354.0,test_1@test.com,FINISHED,296.0,126.0,,2023-04
+2023-04-26,Company B,eXRjOu4,84.0,59.0,"9 rue de l'ormeteau zi les tuileries,,  chelles, France","Route de Picardie, 60190 Avrigny, France",-164.0,test_3@test.com,FINISHED,148.0,108.0,,2023-04
+2023-04-26,Company B,0tfGkhv,60.0,30.0,"131 Rue du 1er Mai, Nanterre, France","26 Allée des Frères Voisin, Paris, France",-64.0,test_2@test.com,FINISHED,34.0,49.0,5.0,2023-04
+2023-04-26,Company B,0aHL5NH,26.1,21.0,"274 Avenue Napoléon Bonaparte, Rueil-Malmaison, France","11 Rue des Sablons, 75116 Paris, France",-47.0,test_5@test.com,FINISHED,30.0,55.0,2.0,2023-04
+2023-04-26,Company B,2SugLp0,26.1,21.0,"274 Avenue Napoléon Bonaparte, Rueil-Malmaison, France","11 Rue des Sablons, 75116 Paris, France",100000.0,test_2@test.com,FINISHED,30.0,45.0,5.0,2023-04
+2023-04-26,Company F,KRVuqBE,37.8,21.0,"11 Rue des Sablons, 75116 Paris, France","274 Avenue Napoléon Bonaparte, Rueil-Malmaison, France",-194.0,test_1@test.com,FINISHED,24.0,77.0,,2023-04
+2023-04-26,Company F,UcamTX6,334.0,210.0,"208 Avenue du Haut-Lévêque, Pessac, France","Rue Santos Dumont, 44860 Saint-Aignan-Grandlieu, France",-280.0,test_4@test.com,FINISHED,814.0,301.0,,2023-04
+2023-04-26,Company F,8WO4Wb3,167.0,125.0,"237 Cours Libération, BP 2348 38033, Grenoble France","40 Chemin de Paisy, Limonest, France",-237.0,test_1@test.com,FINISHED,256.0,126.0,,2023-04
+2023-04-26,Company F,vqQqOyB,171.59,145.51,"237 Cours Libération, BP 2348 38033, Grenoble France","40 Chemin de Paisy, Limonest, France",-89.0,test_3@test.com,FINISHED,256.0,233.0,,2023-04
+2023-04-26,Company F,6mEs6vw,579.0,437.49,"Rue Thuillère, 91940 Gometz-le-Châtel, France","2 Route de Castelnaudary, Soupex, France",932.0,test_2@test.com,FINISHED,162.4048780487805,123.13603818615752,5.0,2023-04
+2023-04-27,Company H,02PgT7P,106.0,32.0,1 rue de l'ile de France 94460 Valenton,"22 quai gallieni,  suresnes, France",-271.0,test_3@test.com,FINISHED,70.0,57.0,,2023-04
+2023-04-27,Company H,1MnYbBc,106.0,45.0,1 rue de l'ile de France 94460 Valenton,"69 boulevard charles de gaulle,  mennecy, France",-309.0,test_2@test.com,FINISHED,76.0,80.0,5.0,2023-04
+2023-04-27,Company H,3EFsRaH,106.0,28.0,1 rue de l'ile de France 94460 Valenton,"6 rue du commandant d'estienne d'orves,  villeneuve la garenne , France",-127.0,test_4@test.com,FINISHED,72.0,91.0,,2023-04
+2023-04-27,Company H,4mwpXFQ,151.0,68.0,"Route de Picardie, 60190 Avrigny, France","18 rue de la fosse aux loups,  argenteuil, France",42.0,test_3@test.com,FINISHED,172.0,108.0,,2023-04
+2023-04-27,Company I,363u5nD,55.0,40.0,"39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France","1 Rue du Parc des Vergers, Tigery, France",124.0,test_4@test.com,FINISHED,84.0,943.0,,2023-04
+2023-04-27,Company I,8jayv4r,22.5,15.0,"2 Rue Jean Daudin, Paris, France","93 Avenue Emile Zola, 75015 Paris, France",-171.0,test_1@test.com,FINISHED,6.0,22.0,,2023-04
+2023-04-27,Company I,9h9dlSS,22.5,15.0,"144 Rue de Rennes, Paris, France","93 Avenue Emile Zola, 75015 Paris, France",-158.0,test_4@test.com,FINISHED,6.0,27.0,,2023-04
+2023-04-27,Company I,BYJNGKh,55.0,40.0,"39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France","1 Rue du Parc des Vergers, Tigery, France",-37.0,test_4@test.com,FINISHED,84.0,16.0,,2023-04
+2023-04-27,Company J,JDi3h26,30.0,20.0,"29 Rue Frémicourt, 75015 Paris, France","9 Rue Georges Berger, Paris, France",-136.0,test_5@test.com,FINISHED,12.0,63.0,2.0,2023-04
+2023-04-27,Company J,Suk5Eid,30.0,17.0,"74, route de la Reine 92100 Boulogne","26 Quai Charles Pasqua, Levallois-Perret, France",-159.0,test_1@test.com,FINISHED,20.0,21.0,,2023-04
+2023-04-27,Company J,AjiEivg,38.0,35.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","14 Allée de l'Île, Clamart, France",-67.0,test_2@test.com,FINISHED,76.0,90.0,5.0,2023-04
+2023-04-27,Company J,I7UvtXO,44.0,28.0,"64 Rue des Vanesses, Villepinte, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-128.0,test_2@test.com,FINISHED,28.0,47.0,5.0,2023-04
+2023-04-27,Company K,KJrYHth,44.0,28.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","64 Rue des Vanesses, Villepinte, France",-148.0,test_4@test.com,FINISHED,28.0,43.0,,2023-04
+2023-04-27,Company K,QNw7nSO,38.0,28.0,"14 Allée de l'Île, Clamart, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-119.0,test_3@test.com,FINISHED,48.0,74.0,,2023-04
+2023-04-27,Company K,JVYD3pe,22.5,20.0,"15-17 Rue Barbès, 92120 Montrouge, France","4 Cours de l'Île Seguin, Boulogne-Billancourt, France",-149.0,test_1@test.com,FINISHED,18.0,48.0,,2023-04
+2023-04-27,Company K,abo6Rt8,29.7,26.0,"11 Rue des Sablons, 75116 Paris, France","274 Avenue Napoléon Bonaparte, Rueil-Malmaison, France",-141.0,test_2@test.com,FINISHED,32.0,75.0,5.0,2023-04
+2023-04-27,Company K,2GCmQSy,346.67,186.0,"18 Rue de Genève, Lyon, France","1598 Rte de Quarante Sous, 78630 Orgeval, France",-273.0,test_1@test.com,FINISHED,162.4048780487805,361.0,,2023-04
+2023-04-27,Company C,uCwWa77,75.0,60.0,"2 Chemin de l'Oratoire, Châteaurenard, France","SOMEDAT STVA, QUARTIER DU PARC DE L'ARTILLERIE, MIRAMAS, 13140, FRA",-393.0,test_5@test.com,FINISHED,94.0,64.0,,2023-04
+2023-04-27,Company C,kr0BQ6c,51.0,20.0,"42 Avenue du Maréchal Foch, Chatou, France","22 Rue des Deux Gares, Rueil-Malmaison, France",-137.0,test_1@test.com,FINISHED,6.0,40.0,,2023-04
+2023-04-27,Company P,lSFnQjs,576.0,509.67,"23 Rue Delarivière-Lefoullon, Puteaux, France","Impasse des Calandres, Villeneuve-lès-Béziers, France",-335.0,test_1@test.com,FINISHED,162.4048780487805,461.0,,2023-04
+2023-04-27,Company Q - R,d7irqpX,184.0,140.0,"1 rue joseph Cugnot, . 38300, Bourgoin Jallieu France","104 Avenue Frédéric Mistral, Chasse-sur-Rhône, France",-239.0,test_4@test.com,FINISHED,98.0,113.0,,2023-04
+2023-04-27,Company Q - R,irxf3q7,179.5,147.0,"237 Cours Libération, BP 2348 38033, Grenoble France","40 Chemin de Paisy, Limonest, France",-185.0,test_2@test.com,FINISHED,256.0,261.0,5.0,2023-04
+2023-04-27,Company S,QPtZuFp,445.0,370.0,"Z.I. des Landiers Ouest, 158 rue des Epinettes  73290 La Motte-Servolex","1 Rue des Vieilles Pierres, 16440 Roullet-Saint-Estèphe, France",100000.0,test_5@test.com,FINISHED,162.4048780487805,123.13603818615752,1.0,2023-04
+2023-04-28,Company T - U,4SAcGaf,106.0,31.0,1 rue de l'ile de France 94460 Valenton,"135 rue des 3 fontanot,  nanterre, France",-97.0,test_3@test.com,FINISHED,74.0,79.0,,2023-04
+2023-04-28,Company T - U,AwOW9ce,199.0,167.0,"2 rue claude bloch cs 15205,  caen cedex , France","Rue Bennefray, Rives-du-Loir-en-Anjou, France",-83.0,test_1@test.com,FINISHED,638.0,17.0,,2023-04
+2023-04-28,Company L - M,E5z6GdQ,175.0,62.0,"Rue Bennefray, Rives-du-Loir-en-Anjou, France","4 rue paul prevault,  besse sur braye, France",71.0,test_3@test.com,FINISHED,226.0,129.0,,2023-04
+2023-04-28,Company L - M,2aWWZhr,22.5,19.0,"1 Rue du Clos-Feuquières, Paris, France","93 Avenue Emile Zola, 75015 Paris, France",-144.0,test_2@test.com,FINISHED,4.0,27.0,,2023-04
+2023-04-28,Company N - O,WUTYV7O,22.5,21.0,"59 Rue Pernety, Paris, France","39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France",-139.0,test_3@test.com,FINISHED,36.0,52.0,,2023-04
+2023-04-28,Company N - O,YnD6n2j,393.0,341.36,"300 Chemin de la Croix de Noves, Avignon, France","7 Rue du 8 Mai 1945, Peyrilhac, France",-563.0,test_3@test.com,FINISHED,996.0,324.0,,2023-04
+2023-04-28,Company A,OQrDDva,30.0,23.0,"74, route de la Reine 92100 Boulogne","18 Avenue Henri IV, Meudon, France",-156.0,test_2@test.com,FINISHED,8.0,34.0,,2023-04
+2023-04-28,Company A,UfK61If,30.0,21.0,"18 Avenue Henri IV, Meudon, France","74, route de la Reine 92100 Boulogne",-150.0,test_3@test.com,FINISHED,8.0,28.0,,2023-04
+2023-04-28,Company A,88q3KhC,321.67,184.0,"2 Allée Fénelon, Veauche, France","1598 Rte de Quarante Sous, 78630 Orgeval, France",-226.0,test_3@test.com,FINISHED,976.0,546.0,,2023-04
+2023-04-28,Company D,PCSY8QH,90.0,63.0,"41 Rue des Alérions, Metzervisse, France","Rue de l'Ingénieur Kind, 57600 Forbach, France",-22.0,test_4@test.com,FINISHED,134.0,123.0,,2023-04
+2023-04-28,Company D,oXgdYk9,125.0,92.0,"1589 Chemin du Play, Saint-Romain-les-Atheux, France","7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France",-449.0,test_5@test.com,FINISHED,258.0,114.0,1.0,2023-04
+2023-04-28,Company D,6UhAirj,103.0,84.0,"28 Quai Gallieni, Suresnes, France","Rue du Bois Barbier, 60880 Le Meux, France",36.0,test_4@test.com,FINISHED,186.0,99.0,,2023-04
+2023-04-28,Company D,FrhJoMO,334.0,290.0,"16 Allée des Hérons, 33600 Pessac, France","Rue Santos Dumont, 44860 Saint-Aignan-Grandlieu, France",5.0,test_1@test.com,FINISHED,816.0,235.0,,2023-04
+2023-04-28,Company B,O8hHEUK,257.0,250.55,"3 All. des Maraîchers, 13013 Marseille, France","6 Avenue de l'Industrie, 69960 Corbas, France",-180.0,test_5@test.com,FINISHED,696.0,273.0,,2023-04
+2023-04-28,Company B,wfSH5Ja,103.0,84.0,"28 Quai Gallieni, Suresnes, France","Rue du Bois Barbier, 60880 Le Meux, France",-161.0,test_1@test.com,FINISHED,186.0,105.0,,2023-04
+2023-04-28,Company B,8p12NxE,25.0,20.0,"102 Avenue Jean Jaurès, Ivry-sur-Seine, France","11 Boulevard du Colonel Fabien, 94200 Ivry-sur-Seine, France",-98.0,test_5@test.com,FINISHED,4.0,39.0,,2023-04
+2023-04-28,Company B,PO50fUK,44.0,27.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","82 Avenue des Pâquerettes, Montfermeil, France",-119.0,test_1@test.com,FINISHED,18.0,36.0,,2023-04
+2023-04-28,Company F,ruB1cIj,44.0,27.0,"82 Avenue des Pâquerettes, Montfermeil, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-184.0,test_2@test.com,FINISHED,20.0,39.0,,2023-04
+2023-04-28,Company F,iwVD3uy,314.0,324.22,"9 Rue Amand Poron, 10000 Troyes, France","15 Rue Centrale, Pont-de-Chéruy, France",-58.0,test_4@test.com,FINISHED,722.0,284.0,,2023-04
+2023-04-28,Company F,4vCGdkh,22.5,23.0,"11 Rue des Sablons, 75116 Paris, France","117 Rue Charles Michels, Saint-Denis, France",-201.0,test_3@test.com,FINISHED,24.0,58.0,,2023-04
+2023-04-28,Company F,5C33qXL,22.5,20.0,"117 Rue Charles Michels, Saint-Denis, France","11 Rue des Sablons, 75116 Paris, France",-38.0,test_5@test.com,FINISHED,24.0,47.0,,2023-04
+2023-04-28,Company E,iA4zdBJ,35.0,22.0,"10 Av. de Saint-Germain, 78560 Le Port-Marly, France","14 Rue François Jacob, Rueil-Malmaison, France",-149.0,test_5@test.com,FINISHED,20.0,38.0,,2023-04
+2023-04-28,Company E,rdWfFFn,35.0,23.0,"14 Rue François Jacob, Rueil-Malmaison, France","10 Av. de Saint-Germain, 78560 Le Port-Marly, France",-25.0,test_3@test.com,FINISHED,18.0,36.0,,2023-04
+2023-04-28,Company G,LTtSgKR,838.54,585.01,"230 Avenue du Camp-de-Menthe, Aix-en-Provence, France","26 Allée des Frères Voisin, Paris, France",0.0,test_1@test.com,FINISHED,162.4048780487805,14.0,,2023-04
+2023-04-28,Company G,UlAQUlq,605.12,476.42,"56 Av. de Versailles, 75016 Paris, France","4 Rue du Grand Verger, Versonnex, France",-102.0,test_1@test.com,FINISHED,162.4048780487805,123.13603818615752,,2023-04
+2023-04-28,Company H,sFXrROt,48.0,24.0,"9 Av. Claude Vellefaux, 75010 Paris, France","94 Rue de Grenelle, Paris, France",-195.0,test_4@test.com,FINISHED,14.0,89.0,,2023-04
+2023-04-28,Company H,FUpFuxj,512.0,438.0,"33-41 Bd Lucien Sampaix, 69190 Saint-Fons, France","Avenue des Martyrs de la Résistance, Martignas-sur-Jalle, France",-260.0,test_1@test.com,FINISHED,162.4048780487805,412.0,,2023-04
+2023-04-28,Company H,Sh4g8Vu,512.0,445.05,"33-41 Bd Lucien Sampaix, 69190 Saint-Fons, France","Avenue des Martyrs de la Résistance, Martignas-sur-Jalle, France",-124.0,test_3@test.com,FINISHED,162.4048780487805,456.0,,2023-04
+2023-05-02,Company H,3SmgPDl,99.0,41.0,1 rue de l'ile de France 94460 Valenton,43 rue buffon 75005  paris,0.0,test_1@test.com,FINISHED,28.0,60.0,,2023-05
+2023-05-02,Company I,573UiDr,132.0,70.0,"7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France","14 Avenue Tony Garnier, Lyon, France",-409.0,test_2@test.com,FINISHED,134.0,84.0,,2023-05
+2023-05-02,Company I,6AZCVPd,106.0,40.0,1 rue de l'ile de France 94460 Valenton,1 rue henri giffard 78180  montingy le bretonneux,-165.0,test_1@test.com,FINISHED,10.0,75.0,,2023-05
+2023-05-02,Company I,2kRsmjn,58.0,33.0,"169 Rue de la République, Bobigny, France","7 Boulevard Franck Kupka, Puteaux, France",-39.0,test_1@test.com,FINISHED,52.0,53.0,,2023-05
+2023-05-02,Company J,7EfRStI,51.0,25.0,"7 Boulevard Franck Kupka, Puteaux, France","169 Rue de la République, Bobigny, France",-6.0,test_5@test.com,FINISHED,40.0,46.0,,2023-05
+2023-05-02,Company J,UYpAUc5,296.0,170.0,"400 Promenade des Anglais, Nice, France","23 Rue Ernest Michel, Montpellier, France",643.0,test_4@test.com,FINISHED,704.0,123.13603818615752,,2023-05
+2023-05-02,Company C,4xKqoH2,22.5,20.0,"39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France","61 Rue Henri Regnault, Courbevoie, France",-184.0,test_5@test.com,FINISHED,42.0,54.0,,2023-05
+2023-05-02,Company C,CR6M1GO,22.5,20.0,"93 Avenue Emile Zola, 75015 Paris, France","2 Rue Jean Daudin, Paris, France",-134.0,test_2@test.com,FINISHED,4.0,42.0,,2023-05
+2023-05-02,Company C,I83gxhs,393.0,195.36,"159 Avenue du Marquisat, Tournefeuille, France","6 Avenue de l'Industrie, 69960 Corbas, France",919.0,test_1@test.com,FINISHED,956.0,123.13603818615752,,2023-05
+2023-05-02,Company C,sAvNpfZ,321.0,278.01,"178 Rue du Fauge, Aubagne, Provence-Alpes-Côte d'Azur, 13400, France","700 Avenue Jean Falconnier, Culoz, Auvergne-Rhône-Alpes, 01350, France",-365.0,test_3@test.com,FINISHED,776.0,273.0,,2023-05
+2023-05-02,Company K,sGGYIOf,103.0,80.0,"Avenue André Malraux, Levallois-Perret, France","Rue du Bois Barbier, 60880 Le Meux, France",-21.0,test_1@test.com,FINISHED,172.0,76.0,,2023-05
+2023-05-02,Company K,OZWRuYh,565.86,453.03,"101 Allée de Port Ponant, La Grande-Motte, France","1598 Rte de Quarante Sous, 78630 Orgeval, France",777.0,test_5@test.com,FINISHED,162.4048780487805,123.13603818615752,,2023-05
+2023-05-02,Company L - M,eTyl61D,70.0,47.0,99 Boulevard Lefebvre 75015 Paris,"29 Rue Lécluse, 75017 Paris, France",-137.0,test_2@test.com,FINISHED,32.0,59.0,,2023-05
+2023-05-02,Company N - O,7qu7dkq,60.0,30.0,"1 Avenue Spinoza, Émerainville, France","26 Allée des Frères Voisin, Paris, France",204.0,test_3@test.com,FINISHED,56.0,50.0,,2023-05
+2023-05-02,Company N - O,K0OHSeZ,80.0,40.0,"27 Av. Carnot, 91300 Massy, France","26 Allée des Frères Voisin, Paris, France",11.0,test_5@test.com,FINISHED,48.0,44.0,,2023-05
+2023-05-02,Company N - O,uNCtH0w,31.05,22.0,"61 Rue de la Victoire, Paris, France","74, route de la Reine 92100 Boulogne",-131.0,test_3@test.com,FINISHED,22.0,46.0,,2023-05
+2023-05-02,Company A,6r6NuIM,44.0,25.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","64 Rue des Vanesses, Villepinte, France",-72.0,test_1@test.com,FINISHED,28.0,29.0,,2023-05
+2023-05-02,Company A,OvN6zFK,44.0,30.0,"64 Rue des Vanesses, Villepinte, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",95.0,test_2@test.com,FINISHED,28.0,47.0,,2023-05
+2023-05-02,Company A,m0fMq53,495.0,320.03,"22 Rue de la Thumenau, 67100 Strasbourg, France","2 Rue René Caudron, Voisins-le-Bretonneux, France",-207.0,test_4@test.com,FINISHED,990.0,367.0,,2023-05
+2023-05-03,Company D,1uRfAm0,281.0,162.0,"Rue Bennefray, Rives-du-Loir-en-Anjou, France","15 rue des peupliers,  voisins le bretonneux, France",293.0,test_2@test.com,FINISHED,534.0,161.0,,2023-05
+2023-05-03,Company D,9bzCHkG,106.0,28.0,1 rue de l'ile de France 94460 Valenton,"95 rue de la faisanderie,  paris, France",-197.0,test_1@test.com,FINISHED,66.0,88.0,,2023-05
+2023-05-03,Company D,BXlVtab,106.0,27.0,1 rue de l'ile de France 94460 Valenton,"6 avenue graham bell,  bussy st georges, France",-150.0,test_4@test.com,FINISHED,62.0,61.0,,2023-05
+2023-05-03,Company D,CXdsHNb,58.0,40.0,"2 Impasse des Coquelicots, Neauphle-le-Vieux, Île-de-France, 78640, France","23-27 Rue Delarivière Lefoullon, Puteaux, Île-de-France, 92800, France",-275.0,test_1@test.com,FINISHED,78.0,70.0,,2023-05
+2023-05-03,Company B,LdmAsRR,51.0,31.0,"22 Avenue Lionel Terray, Jonage, France","6 Avenue de l'Industrie, 69960 Corbas, France",-119.0,test_2@test.com,FINISHED,40.0,39.0,3.0,2023-05
+2023-05-03,Company B,tQLDYNB,199.0,140.01,"18 Rue de la Tène, 08300 Le Châtelet-sur-Retourne, France","20 Rue André Gide, Châtillon, France",-343.0,test_3@test.com,FINISHED,404.0,165.0,,2023-05
+2023-05-03,Company B,QV9UXlb,22.5,30.0,"93 Avenue Emile Zola, 75015 Paris, France","104 Boulevard Raymond Poincaré, Garches, France",34.0,test_4@test.com,FINISHED,30.0,45.0,,2023-05
+2023-05-03,Company B,QlNCPvj,24.0,15.0,"4 Rue Louis Haussmann, Versailles, France","39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France",-148.0,test_4@test.com,FINISHED,30.0,33.0,,2023-05
+2023-05-03,Company F,Ay1T2en,38.0,20.0,"47 Boulevard du Général de Gaulle, Villemomble, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",36.0,test_2@test.com,FINISHED,18.0,38.0,3.0,2023-05
+2023-05-03,Company F,uMjWwYd,53.0,21.0,"5 Rue Missak Manoukian, Rosny-sous-Bois, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-73.0,test_5@test.com,FINISHED,42.0,32.0,,2023-05
+2023-05-03,Company F,ClzLXeA,190.0,144.0,"830 Rue Félix Demesmay, Cysoing, France","1598 Rte de Quarante Sous, 78630 Orgeval, France",964.0,test_2@test.com,FINISHED,526.0,675.0,,2023-05
+2023-05-03,Company F,sfMXrNT,189.87,149.84,"34 Impasse du Tilleul, Saint-Julien-de-Coppel, France","7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France",-140.0,test_3@test.com,FINISHED,472.0,200.0,,2023-05
+2023-05-03,Company E,WaEoovp,233.0,230.02,"14 Rte de Dhuizon, 41250 Neuvy, France","57 Rue Théodore Monod, Rezé, France",-118.0,test_5@test.com,FINISHED,592.0,354.0,,2023-05
+2023-05-03,Company E,drv9yFG,257.0,198.07,"19 Av. des Peupliers, 35510 Cesson-Sévigné, France","6 Mail des Ombrages, Herblay-sur-Seine, France",-191.0,test_5@test.com,FINISHED,698.0,400.0,,2023-05
+2023-05-03,Company G,cLgniaS,30.0,20.0,"21 Rue des Belles Feuilles, Paris, France","74, route de la Reine 92100 Boulogne",-119.0,test_4@test.com,FINISHED,12.0,29.0,,2023-05
+2023-05-03,Company G,WssnfVk,20.0,15.0,"38 Quai de Pierre-Scize, Lyon, France","6 Rue Joannes Carret, 69009 Lyon, France",-141.0,test_2@test.com,FINISHED,6.0,38.0,,2023-05
+2023-05-03,Company H,ZKSbQ6d,20.0,15.0,"6 Rue Joannes Carret, 69009 Lyon, France","38 Quai de Pierre-Scize, Lyon, France",-118.0,test_1@test.com,FINISHED,10.0,32.0,,2023-05
+2023-05-03,Company H,jmoDfA4,25.0,20.0,"11 Boulevard du Colonel Fabien, 94200 Ivry-sur-Seine, France","47A Avenue Gambetta, Maisons-Alfort, France",-115.0,test_1@test.com,FINISHED,6.0,28.0,,2023-05
+2023-05-03,Company J,wwPUtES,25.0,20.0,"47A Avenue Gambetta, Maisons-Alfort, France","11 Boulevard du Colonel Fabien, 94200 Ivry-sur-Seine, France",-37.0,test_5@test.com,FINISHED,8.0,31.0,,2023-05
+2023-05-03,Company J,Gwdmy9g,180.0,185.06,"239 Bd de Graville, 76600 Le Havre, France","31 Avenue Louis Breguet, Vélizy-Villacoublay, France",-84.0,test_3@test.com,FINISHED,964.0,463.0,,2023-05
+2023-05-03,Company C,oRPi5vd,386.0,375.0,"Z.I. des Landiers Ouest, 158 rue des Epinettes  73290 La Motte-Servolex","1 Rue des Vieilles Pierres, Roullet-Saint-Estèphe, France",-276.0,test_3@test.com,FINISHED,162.4048780487805,798.0,,2023-05
+2023-05-04,Company C,4Y8wSBb,127.0,184.67,"za le montigne est,  torce, France","Rue Bennefray, Rives-du-Loir-en-Anjou, France",48.0,test_1@test.com,FINISHED,244.0,138.0,,2023-05
+2023-05-04,Company C,71zNny5,199.0,153.0,"303 rue marie laurecin,  biscarosse, France","1 Avenue de l'Europe, 31620 Castelnau-d'Estrétefonds, France",-183.0,test_2@test.com,FINISHED,494.0,252.0,,2023-05
+2023-05-04,Company C,CqLWzXf,151.0,78.0,"SOMEDAT STVA, QUARTIER DU PARC DE L'ARTILLERIE, MIRAMAS, 13140, FRA","1085 chemin de st privat,  rousset, France",-155.0,test_4@test.com,FINISHED,152.0,141.0,,2023-05
+2023-05-04,Company K,DZ3E21b,199.0,160.0,"4 Rue Gutenberg, 33700 Mérignac, France","1 Avenue de l'Europe, 31620 Castelnau-d'Estrétefonds, France",614.0,test_5@test.com,FINISHED,466.0,123.13603818615752,,2023-05
+2023-05-04,Company K,NR2EwrT,40.5,29.0,"74, route de la Reine 92100 Boulogne","Rue de l'Armée d'Orient, Paris, France",-146.0,test_2@test.com,FINISHED,22.0,103.0,,2023-05
+2023-05-04,Company K,QFDbmUA,30.0,20.0,"99 Rue Mirabeau, Ivry-sur-Seine, France","105, Bd Gabriel Péri 92240 Malakoff",-5.0,test_5@test.com,FINISHED,14.0,45.0,,2023-05
+2023-05-04,Company K,jYVwHtZ,30.0,23.0,"43 Rue du Président Wilson, 92300 Levallois-Perret, France","74, route de la Reine 92100 Boulogne",-178.0,test_3@test.com,FINISHED,18.0,41.0,,2023-05
+2023-05-04,Company K,KYlZQGq,22.5,20.0,"11 Rue des Sablons, 75116 Paris, France","133 Avenue des Champs-Élysées, Paris, France",-172.0,test_3@test.com,FINISHED,4.0,41.0,,2023-05
+2023-05-04,Company L - M,UyKhCzx,37.5,30.0,"11 Rue des Sablons, 75116 Paris, France","6 Rue Fructidor, Saint-Ouen-sur-Seine, France",45.0,test_2@test.com,FINISHED,12.0,45.0,,2023-05
+2023-05-04,Company L - M,cZzuBRY,84.0,77.0,"8 Rue Anatole France, Lille, France","Av. Marc Lefrancq, 59111 Lieu-Saint-Amand, France",139.0,test_1@test.com,FINISHED,130.0,131.0,,2023-05
+2023-05-04,Company L - M,OSwJjGn,44.0,30.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","1 Rue du Jura, Rungis, France",-207.0,test_4@test.com,FINISHED,58.0,68.0,,2023-05
+2023-05-04,Company N - O,hqoMezK,44.0,25.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","12 Rue Doulcet, Sevran, France",-194.0,test_4@test.com,FINISHED,20.0,40.0,,2023-05
+2023-05-04,Company N - O,i2avzAH,44.0,29.0,"1 Rue du Jura, Rungis, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",21.0,test_5@test.com,FINISHED,48.0,62.0,,2023-05
+2023-05-04,Company N - O,qERXj5r,44.0,26.0,"12 Rue Doulcet, Sevran, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-166.0,test_3@test.com,FINISHED,20.0,36.0,,2023-05
+2023-05-04,Company P,KQ38QHU,217.0,180.0,"14 Rte de Dhuizon, 41250 Neuvy, France","La Merdachere, 49370 Val d'Erdre-Auxence, France",14.0,test_5@test.com,FINISHED,436.0,340.0,,2023-05
+2023-05-04,Company P,O4LwMxJ,193.0,154.34,"14 Rte de Dhuizon, 41250 Neuvy, France","4 Rue Xavier Gout, Neuilly-Plaisance, France",47.0,test_1@test.com,FINISHED,360.0,307.0,,2023-05
+2023-05-04,Company Q - R,YBBsCkJ,70.0,50.0,99 Boulevard Lefebvre 75015 Paris,"75 Rue Bonaparte, 75006 Paris, France",0.0,test_1@test.com,FINISHED,8.0,75.0,,2023-05
+2023-05-04,Company Q - R,fJBC8KS,70.0,50.0,99 Boulevard Lefebvre 75015 Paris,"75 Rue de la Réunion, Paris, France",-241.0,test_4@test.com,FINISHED,28.0,62.0,,2023-05
+2023-05-05,Company S,Ax3joNa,151.0,72.0,"Route de Picardie, 60190 Avrigny, France","139 rue lamarck,  paris, France",80.0,test_5@test.com,FINISHED,168.0,279.0,,2023-05
+2023-05-05,Company S,4WG9xAI,22.5,20.0,"38 Promenade du Verger, Issy-les-Moulineaux, France","39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France",-140.0,test_1@test.com,FINISHED,24.0,67.0,,2023-05
+2023-05-05,Company T - U,JkEqkgj,45.5,27.0,"93 Avenue Emile Zola, 75015 Paris, France","71 Bd de Vaugirard, 75015 Paris, France",-121.0,test_4@test.com,FINISHED,6.0,68.0,,2023-05
+2023-05-05,Company T - U,LBMCNyD,30.0,14.0,"12 Rue du Bicentenaire, Puteaux, France","74, route de la Reine 92100 Boulogne",-209.0,test_4@test.com,FINISHED,14.0,40.0,,2023-05
+2023-05-05,Company T - U,E2F2iar,127.0,90.0,"19 Rue de l'Union, Sotteville-lès-Rouen, France","Rue du Bois Barbier, 60880 Le Meux, France",-60.0,test_5@test.com,CANCELLED,292.0,20.0,,2023-05
+2023-05-05,Company T - U,5DF4LYi,44.0,26.0,"64 Rue des Vanesses, Villepinte, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-143.0,test_2@test.com,FINISHED,28.0,36.0,,2023-05
+2023-05-05,Company V - W,qUgcqhn,44.0,26.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","64 Rue des Vanesses, Villepinte, France",-156.0,test_4@test.com,FINISHED,28.0,35.0,,2023-05
+2023-05-05,Company V - W,9PGrUrp,22.5,20.0,"1 Rue Charles Péguy, Suresnes, France","11 Rue des Sablons, 75116 Paris, France",35.0,test_1@test.com,FINISHED,12.0,27.0,,2023-05
+2023-05-05,Company X,EF72RSg,22.5,15.0,"11 Rue des Sablons, 75116 Paris, France","1 Rue Charles Péguy, Suresnes, France",-190.0,test_2@test.com,FINISHED,14.0,35.0,,2023-05
+2023-05-05,Company X,vTPIJuZ,20.0,15.0,"6 Rue Joannes Carret, 69009 Lyon, France","7 Place Victor Basch, Lyon, France",-75.0,test_1@test.com,FINISHED,14.0,44.0,,2023-05
+2023-05-05,Company Y,wQOg6eK,20.0,15.0,"7 Place Victor Basch, Lyon, France","6 Rue Joannes Carret, 69009 Lyon, France",-45.0,test_2@test.com,FINISHED,14.0,36.0,,2023-05
+2023-05-05,Company Y,MFvU8lV,90.0,46.0,"84 Rue aux Arènes, Metz, France","Rue de l'Ingénieur Kind, 57600 Forbach, France",-221.0,test_2@test.com,FINISHED,124.0,91.0,3.0,2023-05
+2023-05-09,Company Y,1YXXTko,58.0,38.0,"34 avenue henri dunant,  marignane, France","SOMEDAT STVA, QUARTIER DU PARC DE L'ARTILLERIE, MIRAMAS, 13140, FRA",-141.0,test_5@test.com,FINISHED,80.0,91.0,,2023-05
+2023-05-09,Company Z,6ppFcyA,58.0,19.0,"96 rue edouard vaillant,  levallois perret, France",1 rue de l'ile de France 94460 Valenton,-109.0,test_1@test.com,FINISHED,66.0,100.0,,2023-05
+2023-05-09,Company Z,75wSy1u,106.0,40.0,1 rue de l'ile de France 94460 Valenton,"6 bld mickael faraday,  marne la vallee , France",-173.0,test_1@test.com,FINISHED,76.0,62.0,,2023-05
+2023-05-09,Company A,IFbl5rk,51.0,28.0,"20 Avenue René Cassin, Lyon, France","6 Avenue de l'Industrie, 69960 Corbas, France",44.0,test_2@test.com,FINISHED,40.0,169.0,,2023-05
+2023-05-09,Company A,PzhpWYb,51.0,28.0,"Rue Joseph Cugnot, Rezé, France","Rue Santos Dumont, 44860 Saint-Aignan-Grandlieu, France",-122.0,test_5@test.com,FINISHED,16.0,85.0,3.0,2023-05
+2023-05-09,Company A,23Z6WCo,20.0,20.0,"15 Place Georges Pompidou, Montigny-le-Bretonneux, France","39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France",28.0,test_3@test.com,FINISHED,42.0,35.0,,2023-05
+2023-05-09,Company D,6CxAisb,38.0,26.0,"107 Avenue Gabriel Péri, Saint-Ouen-sur-Seine, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-83.0,test_2@test.com,FINISHED,20.0,37.0,,2023-05
+2023-05-09,Company D,HntIdVB,38.0,22.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","26 Rue Louis Delplace, Drancy, France",-158.0,test_5@test.com,FINISHED,14.0,32.0,,2023-05
+2023-05-09,Company D,PONhtAV,38.0,24.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","6 Avenue des Rochers, Le Perreux-sur-Marne, France",-171.0,test_2@test.com,FINISHED,22.0,52.0,,2023-05
+2023-05-09,Company D,SKwMi9K,38.0,21.0,"26 Rue Louis Delplace, Drancy, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-30.0,test_3@test.com,FINISHED,8.0,44.0,,2023-05
+2023-05-09,Company B,1qJAeIk,47.3,37.0,"49 Avenue des Capucines, Pontault-Combault, France","74, route de la Reine 92100 Boulogne",71.0,test_1@test.com,FINISHED,78.0,111.0,,2023-05
+2023-05-09,Company B,DfqVRje,30.0,20.0,"9 Quai du Point-du-Jour, Boulogne-Billancourt, France","74, route de la Reine 92100 Boulogne",44.0,test_4@test.com,FINISHED,6.0,34.0,,2023-05
+2023-05-09,Company B,GHmxUsB,30.0,20.0,"47 Rue des Peupliers, 92100 Boulogne-Billancourt, France","74, route de la Reine 92100 Boulogne",6.0,test_1@test.com,FINISHED,6.0,30.0,,2023-05
+2023-05-09,Company B,HU51Lc8,30.0,21.0,"17 Rue du Docteur Lancereaux, Paris, France","29 Rue Frémicourt, 75015 Paris, France",-44.0,test_1@test.com,FINISHED,10.0,54.0,,2023-05
+2023-05-09,Company F,ANcQvHx,334.0,255.0,"Rue des Vernaies, Thônes, France","11 Rue de l'Imprimerie, Montpellier, France",25.0,test_3@test.com,FINISHED,830.0,354.0,,2023-05
+2023-05-09,Company F,4yxxC87,22.5,20.0,"46 Avenue George V, Paris, France","11 Rue des Sablons, 75116 Paris, France",-142.0,test_5@test.com,FINISHED,6.0,42.0,,2023-05
+2023-05-09,Company F,aV8Q4x0,22.5,20.0,"92 Avenue Gambetta, Paris, France","11 Rue des Sablons, 75116 Paris, France",-92.0,test_2@test.com,FINISHED,32.0,78.0,,2023-05
+2023-05-09,Company F,RK7zzw3,193.0,100.0,"14 Rte de Dhuizon, 41250 Neuvy, France","79 Avenue du Général de Gaulle, Maisons-Alfort, France",-79.0,test_3@test.com,FINISHED,336.0,241.0,,2023-05
+2023-05-09,Company E,3SjmEFg,48.0,30.0,"9 Av. Claude Vellefaux, 75010 Paris, France","98 Rue Jean Jaurès, Levallois-Perret, France",-117.0,test_2@test.com,FINISHED,20.0,78.0,,2023-05
+2023-05-09,Company E,kbhbf6p,48.0,21.0,"9 Av. Claude Vellefaux, 75010 Paris, France","98 Rue Jean Jaurès, Levallois-Perret, France",-185.0,test_4@test.com,FINISHED,20.0,67.0,,2023-05
+2023-05-09,Company G,saKCJiz,167.0,120.0,"237 Cours Libération, BP 2348 38033, Grenoble France","40 Chemin de Paisy, Limonest, France",-166.0,test_5@test.com,FINISHED,256.0,221.0,,2023-05
+2023-05-10,Company G,7jwj1Jm,106.0,31.0,1 rue de l'ile de France 94460 Valenton,"3 rue de la resistance , Sarcelles, France",150.0,test_2@test.com,FINISHED,84.0,87.0,,2023-05
+2023-05-10,Company H,JCSNKQz,58.0,29.0,"4 rue des freres caudron, Velizy villacoublay, France",1 rue de l'ile de France 94460 Valenton,108.0,test_1@test.com,FINISHED,52.0,82.0,,2023-05
+2023-05-10,Company H,LUdM99s,58.0,30.0,"2 rue paul doumer, Palaiseau, France",1 rue de l'ile de France 94460 Valenton,-62.0,test_3@test.com,FINISHED,52.0,53.0,,2023-05
+2023-05-10,Company H,3tFF16l,20.0,25.0,"39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France","15 Place Georges Pompidou, Montigny-le-Bretonneux, France",-140.0,test_4@test.com,FINISHED,24.0,46.0,,2023-05
+2023-05-10,Company H,AkCckmz,38.0,25.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","15 Allée du Docteur Albert Schweitzer, Vincennes, France",-70.0,test_2@test.com,FINISHED,22.0,56.0,,2023-05
+2023-05-10,Company J,NVFJUUi,38.0,23.0,"3 Rue Jules Verne, Drancy, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-123.0,test_5@test.com,FINISHED,10.0,30.0,,2023-05
+2023-05-10,Company J,EQyrfEN,28.0,21.0,"17 Rue du Docteur Lancereaux, Paris, France","105, Bd Gabriel Péri 92240 Malakoff",-60.0,test_2@test.com,FINISHED,26.0,47.0,,2023-05
+2023-05-10,Company J,O5agnDW,30.0,21.0,"3 Avenue Desfeux, Boulogne-Billancourt, France","74, route de la Reine 92100 Boulogne",-131.0,test_1@test.com,FINISHED,4.0,19.0,,2023-05
+2023-05-10,Company J,PfHWnv5,30.0,21.0,"29 Rue Frémicourt, 75015 Paris, France","2 Rue des Vergers, Châtillon, France",-218.0,test_5@test.com,FINISHED,12.0,41.0,,2023-05
+2023-05-10,Company K,IB7V9BM,103.0,70.0,"163 Quai Aulagnier, Asnières-sur-Seine, France","Rue du Bois Barbier, 60880 Le Meux, France",0.0,test_1@test.com,FINISHED,166.0,123.13603818615752,,2023-05
+2023-05-10,Company K,iz8Fewr,103.0,63.0,"Avenue de Fouilleuse, Rueil-Malmaison, France","Rue du Bois Barbier, 60880 Le Meux, France",-152.0,test_4@test.com,FINISHED,190.0,136.0,,2023-05
+2023-05-10,Company K,5EeHW3a,22.5,20.0,"116 Avenue Henri Barbusse, 92700 Colombes, France","28 Allée d'Aquitaine, Nanterre, France",-164.0,test_1@test.com,FINISHED,8.0,40.0,,2023-05
+2023-05-10,Company K,PN49AOw,22.5,20.0,"11 Rue des Sablons, 75116 Paris, France","116 Avenue Henri Barbusse, Colombes, France",-212.0,test_1@test.com,FINISHED,16.0,67.0,,2023-05
+2023-05-10,Company K,a5ysYjX,22.5,20.0,"2 Place Jean Millier, Courbevoie, France","116 Avenue Henri Barbusse, 92700 Colombes, France",-109.0,test_3@test.com,FINISHED,8.0,37.0,,2023-05
+2023-05-10,Company C,rHXRZ6F,22.5,15.0,"28 Allée d'Aquitaine, Nanterre, France","116 Avenue Henri Barbusse, 92700 Colombes, France",35.0,test_4@test.com,FINISHED,8.0,62.0,,2023-05
+2023-05-10,Company C,L6xJzZm,75.0,40.0,"1051 Rue des Cormiers, 78630 Orgeval, France","8 Rue Vernet, Paris, France",-137.0,test_4@test.com,FINISHED,62.0,59.0,,2023-05
+2023-05-10,Company P,vpj2rfE,90.0,65.0,"28 Avenue Maurice Thorez, Vénissieux, France","7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France",200.0,test_2@test.com,FINISHED,120.0,251.0,,2023-05
+2023-05-10,Company P,w8FRtIE,125.0,143.0,"851 Rue de la Loire, 45560 Saint-Denis-en-Val, France","Rue de la Gare, 18000 Bourges, France",7.0,test_1@test.com,FINISHED,212.0,133.0,,2023-05
+2023-05-10,Company Q - R,zmePpPO,165.0,138.0,"1 Rue du Firstplan, Osenbach, France","Rue de l'Ingénieur Kind, 57600 Forbach, France",-242.0,test_4@test.com,FINISHED,402.0,207.0,,2023-05
+2023-05-10,Company S,NzMybwn,80.0,14.0,"8 Via Angelo Rizzoli, Milano, Italia","Via I Maggio, 103, 20863 Concorezzo, Provincia di Monza e della Brianza, Lombardia, Italia",-162.0,test_3@test.com,FINISHED,34.0,18.0,,2023-05
+2023-05-10,Company S,wgbcbka,80.0,14.0,"Via Giovanni Capranesi, 43, 00155 Roma, Metropolitan City of Rome Capital, Lazio, Italia","40 Piazzale dell'Industria, Roma, Italia",-203.0,test_1@test.com,FINISHED,54.0,83.0,,2023-05
+2023-05-10,Company T - U,DsJp7uO,25.0,15.0,"1567 Route de la Châtaignière, Limonest, France","6 Rue Joannes Carret, 69009 Lyon, France",-100.0,test_2@test.com,FINISHED,14.0,45.0,,2023-05
+2023-05-10,Company T - U,62Z8NhY,35.0,18.0,"4 Avenue Gabriel Péri, 78360 Montesson, France","7 Rond-Point de l'Étoile, Vaucresson, France",-40.0,test_3@test.com,FINISHED,18.0,41.0,,2023-05
+2023-05-10,Company T - U,mHM3ERW,195.16,153.79,"237 Cours Libération, BP 2348 38033, Grenoble France","116 Cr Lafayette, 69003 Lyon, France",-259.0,test_4@test.com,CANCELLED,246.0,978.0,,2023-05
+2023-05-10,Company V - W,o1v99Al,913.68,555.02,"1 rue joseph Cugnot, . 38300, Bourgoin Jallieu France","52 Rue Jacquard, Lagny-sur-Marne, France",642.0,test_3@test.com,FINISHED,162.4048780487805,123.13603818615752,,2023-05
+2023-05-10,Company V - W,tizqrfH,51.0,24.0,"8 Avenue Vladimir Illitch Lénine, Nanterre, France","22 Rue des Deux Gares, Rueil-Malmaison, France",69.0,test_5@test.com,FINISHED,6.0,54.0,,2023-05
+2023-05-10,Company V - W,OlZuNiO,296.0,226.0,"19 Av. des Peupliers, 35510 Cesson-Sévigné, France","8 Rue Roger Quille, Montmagny, France",-37.0,test_3@test.com,FINISHED,762.0,296.0,,2023-05
+2023-05-11,Company V - W,0LQvtfG,103.0,75.0,"59 rue de provence,  paris, France","Route de Picardie, 60190 Avrigny, France",-128.0,test_2@test.com,FINISHED,168.0,210.0,,2023-05
+2023-05-11,Company L - M,6KBJYpf,103.0,75.0,"59 rue de provence,  paris, France","Route de Picardie, 60190 Avrigny, France",-324.0,test_4@test.com,FINISHED,168.0,126.0,,2023-05
+2023-05-11,Company L - M,7SlVpqM,175.0,100.0,"Route de Picardie, 60190 Avrigny, France","1 rue daddy,  bezannes, France",-35.0,test_1@test.com,FINISHED,246.0,150.0,,2023-05
+2023-05-11,Company L - M,0MCIoS1,33.75,26.0,"39 Avenue Louis Breguet, 78140 Vélizy-Villacoublay, France","6 Rue Marcel Paul, Massy, France",-142.0,test_3@test.com,FINISHED,36.0,65.0,,2023-05
+2023-05-11,Company L - M,3Unr5nV,30.0,22.0,"66 Avenue Pierre Brossolette, 92240 Malakoff, France","74, route de la Reine 92100 Boulogne",-129.0,test_1@test.com,FINISHED,14.0,32.0,,2023-05
+2023-05-11,Company L - M,Ai37txd,83.05,38.0,"74, route de la Reine 92100 Boulogne","49 Avenue des Capucines, Pontault-Combault, France",-191.0,test_2@test.com,FINISHED,76.0,95.0,,2023-05
+2023-05-11,Company A,Y51Qbon,38.0,26.0,"1 Rue Jean Hémard, Créteil, France","11 Boulevard du Colonel Fabien, 94200 Ivry-sur-Seine, France",-99.0,test_5@test.com,FINISHED,12.0,43.0,,2023-05
+2023-05-11,Company A,Zn0qcn0,25.0,20.0,"2 Rue Jean Moulin, Les Lilas, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-113.0,test_3@test.com,FINISHED,8.0,26.0,,2023-05
+2023-05-11,Company B,dkvHHTJ,38.0,24.0,"21 Rue de la Marseillaise, Vincennes, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-34.0,test_2@test.com,FINISHED,14.0,46.0,,2023-05
+2023-05-11,Company B,BZ968FY,22.5,20.0,"42 Rue de Bellevue, Boulogne-Billancourt, France","116 Avenue Henri Barbusse, 92700 Colombes, France",-145.0,test_1@test.com,FINISHED,22.0,53.0,,2023-05
+2023-05-11,Company B,UwIWy33,35.55,33.0,"15-17 Rue Barbès, 92120 Montrouge, France","25 Rue Louis Léon Lepoutre, Nogent-sur-Marne, France",-123.0,test_1@test.com,FINISHED,34.0,78.0,,2023-05
+2023-05-11,Company C,WgUwFw4,22.5,15.0,"116 Avenue Henri Barbusse, 92700 Colombes, France","49 Avenue Georges Pompidou, Levallois-Perret, France",-166.0,test_5@test.com,FINISHED,10.0,33.0,,2023-05
+2023-05-11,Company C,cTCVdza,29.7,24.0,"25 Rue Louis Léon Lepoutre, Nogent-sur-Marne, France","15-17 Rue Barbès, 92120 Montrouge, France",-111.0,test_1@test.com,CANCELLED,32.0,77.0,,2023-05
+2023-05-11,Company D,uDZmTqt,22.5,20.0,"143 Avenue de Verdun, Issy-les-Moulineaux, France","15-17 Rue Barbès, 92120 Montrouge, France",-12.0,test_2@test.com,FINISHED,16.0,43.0,,2023-05
+2023-05-11,Company D,E51jJE4,515.0,331.15,"4 Rue Gaye Marie, Toulouse, France","1 Rue Ampère, Pontoise, France",393.0,test_3@test.com,FINISHED,162.4048780487805,123.13603818615752,,2023-05
+2023-05-11,Company D,Xl9d7K6,275.0,265.98,"14 Rte de Dhuizon, 41250 Neuvy, France","3 Rue Gambetta, Mâcon, France",-170.0,test_2@test.com,FINISHED,668.0,327.0,,2023-05
+2023-05-11,Company D,3flUwOh,145.0,124.0,"1 Rue des Fusillés, Gap, France","SOMEDAT STVA, QUARTIER DU PARC DE L'ARTILLERIE, MIRAMAS, 13140, FRA",0.0,test_5@test.com,FINISHED,392.0,123.13603818615752,,2023-05
+2023-05-11,Company E,xC3YQ8i,435.48,397.57,"135 Rue Pasteur, Bordeaux, France","1598 Rte de Quarante Sous, 78630 Orgeval, France",648.0,test_4@test.com,FINISHED,162.4048780487805,123.13603818615752,,2023-05
+2023-05-11,Company E,BuE48Pj,58.0,34.0,"20 Rue Louise de Vilmorin, 91630 Avrainville, France","20 Rue Louis David, Bagnolet, France",-197.0,test_3@test.com,FINISHED,82.0,97.0,,2023-05
+2023-05-11,Company E,lZG4niU,233.0,200.0,"20 Rue Louise de Vilmorin, 91630 Avrainville, France","9 Rue de la Mairie, Louzy, France",-207.0,test_1@test.com,FINISHED,584.0,309.0,,2023-05
+2023-05-11,Company E,UuDNGQh,39.0,26.0,"42 Rue des Tuileries, 67460 Souffelweyersheim, France","23 Rue du Marais Vert, Strasbourg, France",-171.0,test_5@test.com,FINISHED,14.0,35.0,,2023-05
+2023-05-11,Company F,hMM8Twx,39.0,26.0,"23 Rue du Marais Vert, Strasbourg, France","42 Rue des Tuileries, 67460 Souffelweyersheim, France",-146.0,test_4@test.com,FINISHED,12.0,40.0,,2023-05
+2023-05-11,Company F,4HpwkSp,35.0,22.0,"449 Av. de Dunkerque, 59160 Lille, France","4 Place de la Victoire, Linselles, France",-167.0,test_5@test.com,CANCELLED,32.0,44.0,,2023-05
+2023-05-11,Company F,f7wjrsl,35.0,24.0,"4 Place de la Victoire, Linselles, France","449 Av. de Dunkerque, 59160 Lille, France",-24.0,test_5@test.com,FINISHED,32.0,52.0,,2023-05
+2023-05-12,Company F,0AcYeB2,84.0,58.0,"697 route des vignerons,  portes des pierres dorees, France","7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France",-165.0,test_3@test.com,FINISHED,134.0,99.0,,2023-05
+2023-05-12,Company F,0Xp32qD,51.0,32.0,"81 rue de l'acacia,  salon de provence, France","SOMEDAT STVA, QUARTIER DU PARC DE L'ARTILLERIE, MIRAMAS, 13140, FRA",315.0,test_4@test.com,FINISHED,34.0,79.0,,2023-05
+2023-05-12,Company G,9kqjAVb,84.0,60.0,"329 chemin de bramfaim,  valencin, France","7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France",-37.0,test_3@test.com,FINISHED,124.0,78.0,,2023-05
+2023-05-12,Company G,20jvq9Z,175.0,130.0,"8 Rue Blaise Pascal, Chartres, France","Rue du Bois Barbier, 60880 Le Meux, France",0.0,test_3@test.com,FINISHED,346.0,123.13603818615752,,2023-05
+2023-05-12,Company G,4GdlYfa,58.0,32.0,"1 Allée Colette, Rillieux-la-Pape, France","6 Avenue de l'Industrie, 69960 Corbas, France",-42.0,test_2@test.com,FINISHED,56.0,92.0,,2023-05
+2023-05-12,Company G,EYVOhQ7,103.0,70.0,"4 Rue Joseph Leclainche, Gennevilliers, France","Rue du Bois Barbier, 60880 Le Meux, France",253.0,test_4@test.com,FINISHED,168.0,19.0,,2023-05
+2023-05-12,Company H,Encusmv,257.0,460.43,"Route de la Meyze, Nexon, France","Rue Santos Dumont, 44860 Saint-Aignan-Grandlieu, France",0.0,test_1@test.com,FINISHED,686.0,123.13603818615752,,2023-05
+2023-05-12,Company H,O6G6syq,103.0,70.0,"86 Rue Thiers, Boulogne-Billancourt, France","Rue du Bois Barbier, 60880 Le Meux, France",-117.0,test_3@test.com,FINISHED,186.0,98.0,,2023-05
+2023-05-12,Company H,RfgUoDU,80.0,45.0,"26 Allée des Frères Voisin, Paris, France","76 Rue Waldeck-Rousseau, Vaires-sur-Marne, France",-170.0,test_2@test.com,FINISHED,78.0,12.0,,2023-05
+2023-05-12,Company H,3g1CsCd,88.0,36.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","2 Mail des Droits de l'Homme, Noisy-le-Grand, France",-105.0,test_1@test.com,FINISHED,40.0,63.0,,2023-05
+2023-05-12,Company I,GLAH91Q,38.0,25.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","14 Allée Espécel, Villemomble, France",-103.0,test_3@test.com,FINISHED,12.0,28.0,,2023-05
+2023-05-12,Company I,Q8QkYAz,44.0,25.0,"2 Mail des Droits de l'Homme, Noisy-le-Grand, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-169.0,test_4@test.com,FINISHED,44.0,49.0,,2023-05
+2023-05-12,Company I,QeRXWkD,25.0,20.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","174 Rue Diderot, Pantin, France",-173.0,test_2@test.com,FINISHED,12.0,32.0,,2023-05
+2023-05-12,Company J,BetLPTQ,85.0,52.0,"97 Avenue Gallieni, 93140 Bondy, France","8 Rue Faidherbe, Paris, France",-103.0,test_1@test.com,FINISHED,52.0,124.0,,2023-05
+2023-05-12,Company J,YovQJbz,30.0,21.0,"29 Rue Frémicourt, 75015 Paris, France","17 Rue du Docteur Lancereaux, Paris, France",-180.0,test_1@test.com,FINISHED,10.0,49.0,,2023-05
+2023-05-12,Company K,erPsbPZ,33.75,23.0,"74, route de la Reine 92100 Boulogne","66 Avenue Pierre Brossolette, 92240 Malakoff, France",-109.0,test_5@test.com,FINISHED,14.0,48.0,,2023-05
+2023-05-12,Company K,FNsUhws,22.5,15.0,"80 Rue de Longchamp, 75016 Paris, France","11 Rue César Franck, Paris, France",-154.0,test_3@test.com,FINISHED,8.0,34.0,,2023-05
+2023-05-12,Company K,NqKfz04,22.5,20.0,"15-17 Rue Barbès, 92120 Montrouge, France","143 Avenue de Verdun, Issy-les-Moulineaux, France",-164.0,test_1@test.com,FINISHED,16.0,60.0,,2023-05
+2023-05-12,Company K,5annVRs,533.0,444.25,"5 Rte des Loges, 91290 La Norville, France","18 Rue de Montauby, Saint-Martin-de-Seignanx, France",326.0,test_3@test.com,FINISHED,162.4048780487805,13.0,,2023-05
+2023-05-12,Company L - M,yNW4Lqe,58.0,35.0,"20 Rue Louise de Vilmorin, 91630 Avrainville, France","40 Rue du Bois, La Verrière, France",-268.0,test_2@test.com,FINISHED,88.0,13.0,,2023-05
+2023-05-12,Company L - M,6NhmF6j,158.0,100.0,"184 Av. du Mont Riboudet, 76000 Rouen, France","1 Rue Abel Gance, Bois-d'Arcy, France",61.0,test_3@test.com,CANCELLED,308.0,410.0,,2023-05
+2023-05-12,Company L - M,No1ytvQ,158.0,100.0,"184 Av. du Mont Riboudet, 76000 Rouen, France","1 Rue Abel Gance, Bois-d'Arcy, France",-77.0,test_2@test.com,FINISHED,308.0,97.0,,2023-05
+2023-05-12,Company L - M,VfPNqGW,158.0,100.0,"184 Av. du Mont Riboudet, 76000 Rouen, France","1 Rue Abel Gance, Bois-d'Arcy, France",-150.0,test_4@test.com,FINISHED,308.0,182.0,,2023-05
+2023-05-12,Company L - M,DaP1HE1,25.0,21.0,"6 Rue Joannes Carret, 69009 Lyon, France","378 Avenue de l'Industrie, Rillieux-la-Pape, France",-187.0,test_3@test.com,FINISHED,24.0,38.0,,2023-05
+2023-05-12,Company N - O,1l0N7us,125.0,100.0,"7 Chemin des Berges, Annecy, France","7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France",-104.0,test_4@test.com,FINISHED,202.0,150.0,,2023-05
+2023-05-12,Company N - O,MyBp6VJ,342.91,206.49,"16 Avenue de la Blandinais, Saint-Étienne-de-Montluc, France","1598 Rte de Quarante Sous, 78630 Orgeval, France",0.0,test_1@test.com,FINISHED,908.0,123.13603818615752,,2023-05
+2023-05-12,Company N - O,FdBSENu,39.0,33.0,"4 Rue Emile Mathis, 67800 Hœnheim, France","13 Rue de la Nuée Bleue, Strasbourg, France",-174.0,test_1@test.com,FINISHED,14.0,29.0,,2023-05
+2023-05-12,Company N - O,FknjeAJ,39.0,40.0,"13 Rue de la Nuée Bleue, Strasbourg, France","4 Rue Emile Mathis, 67800 Hœnheim, France",-105.0,test_3@test.com,FINISHED,12.0,44.0,,2023-05
+2023-05-12,Company P,kxNScP0,109.0,73.0,"Rue d'Ariane, Chessy, France","7 Av. Roger Hennequin, Trappes, France",-298.0,test_5@test.com,FINISHED,146.0,116.0,,2023-05
+2023-05-15,Company P,0L6kuki,103.0,86.0,"271 Rue de Péchabout, Agen, France","1 Avenue de l'Europe, 31620 Castelnau-d'Estrétefonds, France",-85.0,test_1@test.com,FINISHED,170.0,107.0,,2023-05
+2023-05-15,Company P,0RLQigE,127.0,86.0,"6 rue de la haye, Schiltigheim, France","Rue de l'Ingénieur Kind, 57600 Forbach, France",-168.0,test_4@test.com,FINISHED,256.0,95.0,,2023-05
+2023-05-15,Company P,3V6ilv6,223.0,143.29,"WA, ZA DES ANSEREUILLES, ALLEE DE LA DEULE, WAVRIN, FRANCE, 59136, France","24 rue de la villageoise,  creil, France",-384.0,test_1@test.com,FINISHED,382.0,240.0,,2023-05
+2023-05-15,Company Q - R,9EbNbMY,103.0,87.0,"36 rue lafayette,  le mans, France","Rue Bennefray, Rives-du-Loir-en-Anjou, France",-419.0,test_5@test.com,FINISHED,162.0,67.0,,2023-05
+2023-05-15,Company Q - R,BMNLXsg,175.0,175.0,"Clos du Grand Chemin, 79210 Prin-Deyrançon, France","Rue Santos Dumont, 44860 Saint-Aignan-Grandlieu, France",-236.0,test_4@test.com,FINISHED,326.0,142.0,,2023-05
+2023-05-15,Company Q - R,U2XXpkf,570.0,453.0,"1 Avenue des Prés, Guyancourt, France","97 Route du Bousquet, Bretagne-de-Marsan, France",-208.0,test_4@test.com,FINISHED,162.4048780487805,490.0,,2023-05
+2023-05-15,Company Q - R,CJUBU9x,257.0,215.89,"1 Rue du Danemark, 56400 Auray, France","75 Promenade des Cours, Poitiers, France",-116.0,test_3@test.com,FINISHED,636.0,280.0,,2023-05
+2023-05-15,Company S,kcXWsZ4,58.0,30.0,"14 Allée du Bec de Canard, Saint-Nom-la-Bretèche, France","19 Rue d'Arcueil, Rungis, France",99.0,test_2@test.com,CANCELLED,70.0,72.0,,2023-05
+2023-05-15,Company S,p0XACJC,60.0,30.0,"13 Rue Lazare Carnot, Le Pré-Saint-Gervais, France","26 Allée des Frères Voisin, Paris, France",110.0,test_5@test.com,FINISHED,40.0,49.0,,2023-05
+2023-05-15,Company S,CDQXwtO,25.0,20.0,"30 Rue de Paris, 93130 Noisy-le-Sec, France","20 Avenue du Général Leclerc, Pantin, France",-175.0,test_1@test.com,FINISHED,14.0,39.0,,2023-05
+2023-05-15,Company S,DOUVzTy,25.0,20.0,"20 Avenue du Général Leclerc, Pantin, France","30 Rue de Paris, 93130 Noisy-le-Sec, France",-103.0,test_1@test.com,FINISHED,8.0,29.0,,2023-05
+2023-05-15,Company A,4hKtBEQ,235.0,180.0,"21 Rue des Pépinières, Longeville-lès-Metz, France","1598 Rte de Quarante Sous, 78630 Orgeval, France",-1.0,test_4@test.com,FINISHED,714.0,246.0,,2023-05
+2023-05-15,Company A,RlpBudV,90.0,74.0,"220 Rue du Bois de la Chapelle, Montagna-le-Reconduit, France","7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France",-97.0,test_1@test.com,FINISHED,128.0,95.0,,2023-05
+2023-05-15,Company A,okhSmoU,125.0,230.0,"6 Chemin des Plots, Devay, France","Rue de la Gare, 18000 Bourges, France",-242.0,test_3@test.com,CANCELLED,228.0,138.0,,2023-05
+2023-05-15,Company B,KuwouiJ,160.0,134.0,"2 Via Don Carlo Marzocchi, Casalecchio di Reno, Italia","Via I Maggio, 103, 20863 Concorezzo, Provincia di Monza e della Brianza, Lombardia, Italia",-43.0,test_1@test.com,FINISHED,476.0,232.0,,2023-05
+2023-05-15,Company B,7iU2LH5,145.0,100.0,"20 Rue Louise de Vilmorin, 91630 Avrainville, France","90 Rue Charles de Gaulle, Freneuse, France",-160.0,test_2@test.com,FINISHED,210.0,94.0,,2023-05
+2023-05-15,Company C,LxHRpxS,76.0,37.0,"5 Rte des Loges, 91290 La Norville, France","29 Avenue Louis Breguet, Vélizy-Villacoublay, France",-216.0,test_1@test.com,FINISHED,84.0,66.0,,2023-05
+2023-05-15,Company C,XcMcIVL,30.0,20.0,"28 Rue Escudier, Boulogne-Billancourt, France","74, route de la Reine 92100 Boulogne",-117.0,test_1@test.com,FINISHED,4.0,24.0,,2023-05
+2023-05-16,Company D,1Y3ABGp,199.0,142.0,"336 boulevard duhamel du monceau, Olivet, France","Rue Bennefray, Rives-du-Loir-en-Anjou, France",792.0,test_5@test.com,FINISHED,420.0,123.13603818615752,,2023-05
+2023-05-16,Company D,4FZ2wvl,199.0,170.0,"85 av occitanie,  saint maur, France","Rue Bennefray, Rives-du-Loir-en-Anjou, France",-195.0,test_3@test.com,FINISHED,438.0,232.0,,2023-05
+2023-05-16,Company D,FzZ9Ir9,106.0,33.0,1 rue de l'ile de France 94460 Valenton,"2 rue de la paix,  colombes, France",-163.0,test_2@test.com,FINISHED,90.0,92.0,,2023-05
+2023-05-16,Company D,LCQx8YR,344.0,280.0,"7 Rue des Frères Salvez, 01500 Ambérieu-en-Bugey, France","14 16 rue saint luc,  chateauroux, France",-42.0,test_3@test.com,FINISHED,716.0,286.0,,2023-05
+2023-05-16,Company E,Ba30lK6,30.0,15.0,"26 All. des Frères Voisin, 75015 Paris, France","26 Allée des Frères Voisin, Paris, France",-125.0,test_3@test.com,FINISHED,0.0,16.0,,2023-05
+2023-05-16,Company E,Hkvy12c,22.5,15.0,"93 Avenue Emile Zola, 75015 Paris, France","100 Avenue de Suffren, Paris, France",-226.0,test_3@test.com,FINISHED,4.0,23.0,,2023-05
+2023-05-16,Company E,Omh4qMc,296.0,228.0,"Rue d'Illzach, Kingersheim, France","6 Avenue de l'Industrie, 69960 Corbas, France",-189.0,test_2@test.com,FINISHED,748.0,391.0,,2023-05
+2023-05-16,Company E,LeKLulI,40.0,40.0,"124 Rue Alfred Dequeant, 92000 Nanterre, France","126 Avenue du Général Leclerc, Pantin, France",-283.0,test_4@test.com,CANCELLED,42.0,219.0,,2023-05
+2023-05-16,Company F,YZUq46Z,34.65,18.0,"74, route de la Reine 92100 Boulogne","42 Rue de l'Avenir, Clichy, France",-86.0,test_1@test.com,FINISHED,24.0,74.0,,2023-05
+2023-05-16,Company F,banTRwf,28.0,15.0,"29 Rue Frémicourt, 75015 Paris, France","17 Rue du Docteur Lancereaux, Paris, France",-207.0,test_3@test.com,FINISHED,10.0,45.0,,2023-05
+2023-05-16,Company F,niAR0F0,30.0,21.0,"42 Rue de l'Avenir, Clichy, France","74, route de la Reine 92100 Boulogne",-126.0,test_2@test.com,FINISHED,22.0,61.0,,2023-05
+2023-05-16,Company F,Ul7E00Q,25.0,20.0,"11 Rue du Commandeur, Paris, France","11 Boulevard du Colonel Fabien, 94200 Ivry-sur-Seine, France",-113.0,test_1@test.com,FINISHED,18.0,42.0,,2023-05
+2023-05-16,Company F,rvTCbrs,25.0,20.0,"11 Boulevard du Colonel Fabien, 94200 Ivry-sur-Seine, France","11 Rue du Commandeur, Paris, France",-127.0,test_3@test.com,FINISHED,22.0,62.0,,2023-05
+2023-05-16,Company G,xezNHQ7,38.0,23.0,"86 Avenue du 18 Juin 1940, Rueil-Malmaison, France","11 Boulevard du Colonel Fabien, 94200 Ivry-sur-Seine, France",-53.0,test_4@test.com,FINISHED,48.0,74.0,,2023-05
+2023-05-16,Company,JUi2GmH,75.0,50.0,"16 Allée Maximilien de Robespierre, Martigues, France","SOMEDAT STVA, QUARTIER DU PARC DE L'ARTILLERIE, MIRAMAS, 13140, FRA",-183.0,test_2@test.com,FINISHED,58.0,85.0,,2023-05
